@@ -1,0 +1,4 @@
+  warning: could not transcribe /home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-guanyu-slaying-yanliang.mp4: Video transcription requires faster-whisper. Run: pip install 'graphifyy[video]'
+  warning: could not transcribe /home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-zhaoyun-cradle-escape.mp4: Video transcription requires faster-whisper. Run: pip install 'graphifyy[video]'
+  warning: could not transcribe /home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-lyubu-yuanmen-archery.mp4: Video transcription requires faster-whisper. Run: pip install 'graphifyy[video]'
+[]

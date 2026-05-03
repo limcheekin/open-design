@@ -1,0 +1,3478 @@
+{
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/esbuild.config.mjs": {
+    "mtime": 1777773390.185452,
+    "hash": "a3090240b9894e3e34eae79b99b31ccb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/config.ts": {
+    "mtime": 1777773390.185452,
+    "hash": "80280c465969d15be6bc0af84d0e0930"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/paths.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "a83f405ef3c17fa6ff470839c0fc8618"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/launch.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "e70499390e217b2077477856b2568813"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/sidecars.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "3fe8aba6477a68e3b082e33e915b3070"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/protocol.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "6128b434ebb150573a55f075774ba36b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/logging.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "e0ed107f5fd52b102e6276c6bb354871"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/identity.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "6042aa215f1e796607fa236a1c381090"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/src/index.ts": {
+    "mtime": 1777773390.1859605,
+    "hash": "9a14afb2f149d7f3aea3433be72ecf1d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/vitest.config.ts": {
+    "mtime": 1777773390.1831036,
+    "hash": "ecc5338ecd71d7d112ccc6ab0f5bf125"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/app-version.test.ts": {
+    "mtime": 1777773390.1801033,
+    "hash": "4bdc1edb33db112517ccdb07fdb1b022"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/project-classifiers.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "54dd7b6ac3676f22929dc17e167328a9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/pi-rpc.test.ts": {
+    "mtime": 1777773390.1811035,
+    "hash": "e26ce030e3ff91392866096f204e9cb0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/server-cors.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "55fdf01bd896f6c6ebefb0cb6128111a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/sanitize-name.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "ce1c1fc3a7574a23d4c59bb4e5c1332e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/server-paths.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "533d5fb6aaa38e19897f97953dec6972"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/project-status.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "c8c014bd7c6b5c7314027da71d416659"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/system-prompt-template.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "3cf780475b34975569ba120aaa647f77"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/sse-response.test.ts": {
+    "mtime": 1777773390.1821034,
+    "hash": "1759a28898b5826069f6615714258b7a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/deploy.test.ts": {
+    "mtime": 1777773390.1801033,
+    "hash": "621b596592e09a17fefbb97d2b33f11b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/lint-artifact.test.ts": {
+    "mtime": 1777773390.1811035,
+    "hash": "2406a6b055bcca929eed38b8c72ff2be"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/artifact-manifest.test.ts": {
+    "mtime": 1777773390.1801033,
+    "hash": "84a239df0fdaa6fe3a0c9561767bfbf5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/agents.test.ts": {
+    "mtime": 1777773390.1801033,
+    "hash": "b1292d6a8c7d3d3eca60770ca5e5d2a0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/comment-attachments.test.ts": {
+    "mtime": 1777773390.1801033,
+    "hash": "130fb454e3d20bac2dc3988e96b6726e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/json-event-stream.test.ts": {
+    "mtime": 1777773390.1811035,
+    "hash": "d01f0bac775ea41dc22dc5b6a08cd3ed"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/version-route.test.ts": {
+    "mtime": 1777773390.1831036,
+    "hash": "e401f3ed31d603b4d4169d31771909f0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/tests/craft.test.ts": {
+    "mtime": 1777773390.1801033,
+    "hash": "ad238cde2c1ed12ee762b262bef5ad07"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/sidecar/index.ts": {
+    "mtime": 1777773390.1689408,
+    "hash": "1b8dfe57da3e91eea62aa5b0a1c1f3de"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/sidecar/server.ts": {
+    "mtime": 1777773390.1691163,
+    "hash": "fb74e6388923a9197f54eb1d9482c756"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/app-version.ts": {
+    "mtime": 1777773390.169583,
+    "hash": "85eee44da2e7e63ebdd4739e4430166d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/design-systems.ts": {
+    "mtime": 1777773390.1721032,
+    "hash": "46698439c9c20bc110018c62f7b78389"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/cli.ts": {
+    "mtime": 1777773390.170103,
+    "hash": "b39625b11960a7e483aa5b7646053edf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/pi-rpc.ts": {
+    "mtime": 1777773390.1751032,
+    "hash": "b5a7140294b7621ec7e31ea9df730133"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/db.ts": {
+    "mtime": 1777773390.171103,
+    "hash": "d9d96fea54917f43c8ae91f8a40b23c0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/media-models.ts": {
+    "mtime": 1777773390.1741033,
+    "hash": "40e9a6353ae9f58ed45edb99a166c06c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/copilot-stream.ts": {
+    "mtime": 1777773390.170103,
+    "hash": "a959b2d30c3494fcd0d7fe8658abfaed"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/claude-stream.ts": {
+    "mtime": 1777773390.169583,
+    "hash": "72f51554a62127a83b384f8f4e593699"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/deploy.ts": {
+    "mtime": 1777773390.171103,
+    "hash": "0f67b0081d50f115e327be507b2787c8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/codex-pets.ts": {
+    "mtime": 1777773390.170103,
+    "hash": "9c3d3aa36e7cfa5a2938d4df96f6c2cc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/skills.ts": {
+    "mtime": 1777773390.1791034,
+    "hash": "ee187dc0b0a365ea6bcdb12e6da83651"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/craft.ts": {
+    "mtime": 1777773390.171103,
+    "hash": "36b27fda928d03ad0cb76cd9e9be46a7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/lint-artifact.ts": {
+    "mtime": 1777773390.1741033,
+    "hash": "e3660b307f6da9d2664af61666e6a070"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/runs.ts": {
+    "mtime": 1777773390.1781032,
+    "hash": "11efb52e24e12f09f86971e072f07f60"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/json-event-stream.ts": {
+    "mtime": 1777773390.173103,
+    "hash": "aabb86dbab4a1360130839c7362b6314"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/acp.ts": {
+    "mtime": 1777773390.1691163,
+    "hash": "6335d6d4609b89fdccc58c0d2894cecc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/design-system-preview.ts": {
+    "mtime": 1777773390.1721032,
+    "hash": "53265e718b362e51868c9342f400905e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/design-system-showcase.ts": {
+    "mtime": 1777773390.1721032,
+    "hash": "5ad4848a8a06adde938cc5a36ffbad92"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/media.ts": {
+    "mtime": 1777773390.1751032,
+    "hash": "526fd64f03b6b44952c1d83a9d92323e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/document-preview.ts": {
+    "mtime": 1777773390.173103,
+    "hash": "753c8c36c149a2dc860300b6eeeb1013"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/artifact-manifest.ts": {
+    "mtime": 1777773390.169583,
+    "hash": "6f9369ed5b8df1e48919a14c7d34edf6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/community-pets-sync.ts": {
+    "mtime": 1777773390.170103,
+    "hash": "e5663d7494dd16e32c360c3474390a82"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/frontmatter.ts": {
+    "mtime": 1777773390.173103,
+    "hash": "b0ff9fcc10179c8ca6730132cae1eb28"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/claude-design-import.ts": {
+    "mtime": 1777773390.169583,
+    "hash": "9d80c23308f105fc365e4aaff260a0e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/projects.ts": {
+    "mtime": 1777773390.176103,
+    "hash": "2b54ab03cfdf39b84db00dcd4b5cae45"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/server.ts": {
+    "mtime": 1777773390.1791034,
+    "hash": "c531e1437a219b450af23c8a8f3e7f98"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompt-templates.ts": {
+    "mtime": 1777773390.176103,
+    "hash": "26c3a7e6c42db883c90712ade672d8d8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/media-config.ts": {
+    "mtime": 1777773390.1741033,
+    "hash": "692d2b91badf7b56ce10ed1ab31dc0c8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/agents.ts": {
+    "mtime": 1777773390.169583,
+    "hash": "d2ed2ce74cab3ee987d94a09bd345b59"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompts/discovery.ts": {
+    "mtime": 1777773390.1775026,
+    "hash": "f418332312e3fd66f1e1f819f48a75a1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompts/official-system.ts": {
+    "mtime": 1777773390.1775026,
+    "hash": "2b8b3ceffdbbdba0369bd97cd0c55624"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompts/directions.ts": {
+    "mtime": 1777773390.1775026,
+    "hash": "c327c0f40ceab02b368d16599a93416b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompts/media-contract.ts": {
+    "mtime": 1777773390.1775026,
+    "hash": "d8d94ff4b00c38111bdf73ae9ce6d51d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompts/deck-framework.ts": {
+    "mtime": 1777773390.176103,
+    "hash": "167ff12ba4cb3dfcb6b3ee1386e2b9e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/daemon/src/prompts/system.ts": {
+    "mtime": 1777773390.1781032,
+    "hash": "5a22f40ddc7cbf767fe80b56aea4f183"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/vitest.config.ts": {
+    "mtime": 1777773390.207233,
+    "hash": "73a5c3eae7815d1bea7f794644f4746b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/next-env.d.ts": {
+    "mtime": 1777773390.18723,
+    "hash": "2a74d3909800ca5467fa83b0ab4a4890"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/next.config.ts": {
+    "mtime": 1777773390.18723,
+    "hash": "0222249bb6720844b0493b174aaa94cd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/app/layout.tsx": {
+    "mtime": 1777773390.18723,
+    "hash": "ac25495f80be19a9b29adc288cd0ceaf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/app/[[...slug]]/page.tsx": {
+    "mtime": 1777773390.18723,
+    "hash": "57856b1d9ff19f14e678808c4d2413b1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/app/[[...slug]]/client-app.tsx": {
+    "mtime": 1777773390.1870039,
+    "hash": "cd692249934054cb5cc90bab5789ee26"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/sidecar/index.ts": {
+    "mtime": 1777773390.1901038,
+    "hash": "73c22b1fa3599690ad746141f2bd4ad2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/sidecar/server.ts": {
+    "mtime": 1777773390.190934,
+    "hash": "c2c695933158227c66c3cce287708e41"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/sidecar-proxy.test.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "869add43b34a3c560479c0316ba3f57a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/comments.ts": {
+    "mtime": 1777773390.1921039,
+    "hash": "9ed8eb375abbc5040bce3c6a9f4e8808"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/types.ts": {
+    "mtime": 1777773390.2065234,
+    "hash": "95a54aa2ce3011b643c2322fe13fd1fb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/App.tsx": {
+    "mtime": 1777773390.190934,
+    "hash": "285c50c11db89905942e965975d69840"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/comments.test.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "35617d379eda506e1e90bc719f7297e8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/router.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "e4c5e4f15b8da5686a36a2606b049a13"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/index.tsx": {
+    "mtime": 1777773390.2005827,
+    "hash": "1b671fa4e2d257b212f850796549f251"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/content.test.ts": {
+    "mtime": 1777773390.1999474,
+    "hash": "d1b81e509ffceb6c0263eb64347c364f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/types.ts": {
+    "mtime": 1777773390.203104,
+    "hash": "a32d4c44480c9bbc305aee3bd96ccb39"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales.test.ts": {
+    "mtime": 1777773390.2005827,
+    "hash": "df0e13d2b7729b1d2eddc9b62dbcb96c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/content.ts": {
+    "mtime": 1777773390.2005827,
+    "hash": "5fab9190750d5e9108972c85d8eb2286"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/design-files-agent-copy.test.ts": {
+    "mtime": 1777773390.2005827,
+    "hash": "435dfb954e32dd03c8633bffadaa3d51"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/design-files-dropzone-copy.test.ts": {
+    "mtime": 1777773390.2005827,
+    "hash": "c82872e6df001c60947376268ae47918"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/hu.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "71baa16fd743b3b35de3e7f029a384f4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/ru.ts": {
+    "mtime": 1777773390.202104,
+    "hash": "9376564bad9549dbd8677836586ba30e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/de.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "40bda2521c058699b4bce31e38252fd4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/fa.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "f67d589b697d9ba3b6b993a16d4b435f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/zh-CN.ts": {
+    "mtime": 1777773390.203104,
+    "hash": "3770b33ce554bacf85843a63c1922b0d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/en.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "c689e7b3e1dfe9484f0d747c4c7e7855"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/pl.ts": {
+    "mtime": 1777773390.202104,
+    "hash": "0b6227122ff7349e4332160178e10c92"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/ko.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "30f2d448ca7a1071cc553e10ce93842a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/tr.ts": {
+    "mtime": 1777773390.202104,
+    "hash": "b0085584e1720a4b0790f2e082f680b2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/pt-BR.ts": {
+    "mtime": 1777773390.202104,
+    "hash": "c87438e79376cb7c7ab49e247228a8c0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/ar.ts": {
+    "mtime": 1777773390.2005827,
+    "hash": "9ae753e89baa1fc2d02c225fbe729431"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/es-ES.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "93789d77f13244daf8add3ad5e12dc1d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/ja.ts": {
+    "mtime": 1777773390.2012784,
+    "hash": "bd562ec85901aa573ac1c2020cb70be0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/i18n/locales/zh-TW.ts": {
+    "mtime": 1777773390.203104,
+    "hash": "71703daaecec5aac2f2b8e6fb88828d5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/AgentIcon.tsx": {
+    "mtime": 1777773390.1921039,
+    "hash": "0ca392f2ec1eeac313f361f53af0aba9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/FileViewer.test.tsx": {
+    "mtime": 1777773390.195104,
+    "hash": "ba990090bce0bb1166ec69ddb4e157d9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/DesignSpecView.tsx": {
+    "mtime": 1777773390.1941037,
+    "hash": "1c0a2739a7c763fe246ab1005356ee22"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/AppChromeHeader.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "15df7da4217918a6becfd8afc1cbb92e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/PasteTextDialog.tsx": {
+    "mtime": 1777773390.1961038,
+    "hash": "a6112d8a0260c5fefddf38fc6f6a9dea"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/ExamplesTab.tsx": {
+    "mtime": 1777773390.195104,
+    "hash": "36b895719a3f18a001fb16d218aa42c7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/SettingsDialog.tsx": {
+    "mtime": 1777773390.198104,
+    "hash": "a42b0d9fa08b23cb2df930dcbce61e04"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/AssistantMessage.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "71a52c2f286cc7038f9dad121f6ae3de"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/DesignFilesPanel.tsx": {
+    "mtime": 1777773390.1941037,
+    "hash": "9f764640606bfff0702ab1796a624835"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/QuestionForm.tsx": {
+    "mtime": 1777773390.198104,
+    "hash": "6ccc7d77b2b3697b5d81a9f1b09a30cb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/AvatarMenu.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "59e05bd280f13b4eb3bf65e18a739b2e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/ToolCard.tsx": {
+    "mtime": 1777773390.198104,
+    "hash": "d49d8725f12701c995afa51062eefb17"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/PreviewModal.tsx": {
+    "mtime": 1777773390.197104,
+    "hash": "5e18c5f584ae996c44d8020b61cd03c1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/DesignSystemsTab.tsx": {
+    "mtime": 1777773390.1941037,
+    "hash": "555649c106fa5a746ce5c919be6d6f68"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/FileWorkspace.test.tsx": {
+    "mtime": 1777773390.195104,
+    "hash": "2d5fb178785c8835011ce52bffc80d14"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/SketchEditor.tsx": {
+    "mtime": 1777773390.198104,
+    "hash": "118829998f6828d25bc2d92e7158ee8c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/FileViewer.tsx": {
+    "mtime": 1777773390.195104,
+    "hash": "e9cb7ea2d1f8d78f525fd2bad9a1ac9d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/AgentPicker.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "54a4961c260cc668657dca715e139ab6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/SettingsDialog.test.ts": {
+    "mtime": 1777773390.198104,
+    "hash": "f9c9142d35e038c101e6f404155146f5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/PromptTemplatePreviewModal.tsx": {
+    "mtime": 1777773390.197104,
+    "hash": "ddbd10f814315cc091528bb35609fb88"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/DesignsTab.test.ts": {
+    "mtime": 1777773390.1941037,
+    "hash": "70fa48a960de0db1c1d09816399280cf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/PromptTemplatesTab.tsx": {
+    "mtime": 1777773390.197104,
+    "hash": "1796af07722eeb3f73ce1f1d6f29790b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/ChatPane.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "e32ae89c4410e77149b4e19d8fcbe0ff"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/DesignSystemPreviewModal.tsx": {
+    "mtime": 1777773390.1941037,
+    "hash": "c49295212c36cb1e5996458e521b0850"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/DesignsTab.tsx": {
+    "mtime": 1777773390.1941037,
+    "hash": "ecd9682a9580f746fcc1a7870696d31a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/LanguageMenu.tsx": {
+    "mtime": 1777773390.1961038,
+    "hash": "013aefd6d0e71dd322827e5eab33e55e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/ProjectView.tsx": {
+    "mtime": 1777773390.197104,
+    "hash": "6c884f91bd9be2ce1c17995c0571c63e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/NewProjectPanel.tsx": {
+    "mtime": 1777773390.1961038,
+    "hash": "70744849e730406cde1eeaea13e557a6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/Icon.tsx": {
+    "mtime": 1777773390.1961038,
+    "hash": "685e7571afe27902fb487c74795d6e39"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/ChatComposer.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "e985c1b5d0c5f89c6d79fdb440125f20"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/ConversationsMenu.tsx": {
+    "mtime": 1777773390.1931329,
+    "hash": "a60ecfd1058eb972f9b3e63d130fa0f6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/EntryView.tsx": {
+    "mtime": 1777773390.1941037,
+    "hash": "8e2c50fe2061089473ebd8aacec3c6a9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/FileWorkspace.tsx": {
+    "mtime": 1777773390.1961038,
+    "hash": "e37c0d306a780f56995b1c36f9d50d6c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/modelOptions.tsx": {
+    "mtime": 1777773390.198104,
+    "hash": "925761c5d11e5ef07b7c880ee2bf0db2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/Loading.tsx": {
+    "mtime": 1777773390.1961038,
+    "hash": "1b09e674515d40db96704179310b41db"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/codexAtlas.ts": {
+    "mtime": 1777773390.1999474,
+    "hash": "d363bc009bb2e5a5ae56284c8db6a0f6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/PetOverlay.tsx": {
+    "mtime": 1777773390.199104,
+    "hash": "94737515f63808d28af5f11d49c5f104"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/pets.ts": {
+    "mtime": 1777773390.1999474,
+    "hash": "efd0af7e7aa74f0bdfec762413860702"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/image.ts": {
+    "mtime": 1777773390.1999474,
+    "hash": "ae512c09289dfdfbefaea2ab4b7e424e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/PetSettings.tsx": {
+    "mtime": 1777773390.1999474,
+    "hash": "0e49b7c5bf3e7add20fb41fef5129e6a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/PetSpriteFace.tsx": {
+    "mtime": 1777773390.1999474,
+    "hash": "e4d27c6060bff8133b35961319b82044"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/components/pet/PetRail.tsx": {
+    "mtime": 1777773390.1999474,
+    "hash": "35fe23f24ce1193768de1064365f47f5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/utils/agentLabels.ts": {
+    "mtime": 1777773390.2065234,
+    "hash": "c2e9830d044fcc1ee8ca457967964787"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/utils/chatTime.test.ts": {
+    "mtime": 1777773390.207233,
+    "hash": "3141d2a7a83531b49ab2a6947733a8d4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/utils/chatTime.ts": {
+    "mtime": 1777773390.207233,
+    "hash": "1957d0b2331684af8024801a6d3d2c82"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/todos.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "171a99460337130df4bb8d11b1b1d902"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/react-component.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "e2b4bc616a926e2bbdb144b67aadf67d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/zip.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "1c71aa395bb749f2f66c55e1fff7e635"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/srcdoc.test.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "32a246a47df19be3684a02ea8e58613a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/tool-renderers.test.tsx": {
+    "mtime": 1777773390.2058258,
+    "hash": "95101ef64998dfb7a304f70b418b62d1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/exports.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "b657120a90312be483fcb1c7380ad62c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/srcdoc.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "f44bc325c47aee13db2cc9f35fd23feb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/markdown.tsx": {
+    "mtime": 1777773390.2058258,
+    "hash": "e24e7a7e1c0e55bbf36977ac54ea6889"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/tool-renderers.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "3704c7185313b8eefc6126d86c89cd0b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/runtime/react-component.test.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "5954f18bb1a51fdf159f70789b7a30d0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/media/models.ts": {
+    "mtime": 1777773390.2041042,
+    "hash": "b893c0678add2904c420968afdf63f2c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/daemon.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "0f367f778add4d49067098dfaa0bc25c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/sse.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "345d95d95607ab5a3a76ccc6537b18f2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/openai-compatible.test.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "e4b9e5674c2719f206449dc2e4816d89"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/sse.test.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "7242190c48e5da04c0bd988ca48b1ddf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/registry.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "984bd7b7db8f7974d5773cbed6b56b01"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/openai-compatible.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "38b857229445f6def7709a931b2933fc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/anthropic-compatible.ts": {
+    "mtime": 1777773390.2041042,
+    "hash": "a56990a651cc2ca3ce0c9d0f6fee38a8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/registry.test.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "9a1e2d4f8410c7501c837d1258fad26e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/providers/anthropic.ts": {
+    "mtime": 1777773390.2051327,
+    "hash": "c12307c46eba456bd05c73ed4feeffc3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/manifest.test.ts": {
+    "mtime": 1777773390.1914327,
+    "hash": "f7419a00c4ee7d769c5d10f2b2e446e2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/markdown.test.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "ed1545211b117d8327e0424d6804ba16"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/markdown.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "072eaba9558b2f6ff3a311781bc8876e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/question-form.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "484d04f4d7cea935ad6a8750681a8a4e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/types.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "cfb5d7fd1561d8f728c31939339ac2ee"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/manifest.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "cc4083277e5f21fd9c02fece640460be"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/parser.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "88a7bcaa21de029778528e8acf5a2b9a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/renderer-registry.test.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "cbf724b35a7982fb8d9cad39a526d4cf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/artifacts/renderer-registry.ts": {
+    "mtime": 1777773390.1915922,
+    "hash": "6ef9def655655db7d922571639dd3690"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/state/config.ts": {
+    "mtime": 1777773390.2065234,
+    "hash": "27d8de9eabb03187c6952dce4ea2d9fb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/state/projects.ts": {
+    "mtime": 1777773390.2065234,
+    "hash": "850913bcb29d98dc5bb6adc67e1e6559"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/src/state/config.test.ts": {
+    "mtime": 1777773390.2058258,
+    "hash": "a4058af0126d7d405667590090c319e8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/desktop/src/main/runtime.ts": {
+    "mtime": 1777773390.1849174,
+    "hash": "ab985d65b0fe83afb33c854697af6efa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/desktop/src/main/index.ts": {
+    "mtime": 1777773390.1846216,
+    "hash": "cc689bb8d5fd001c460ea851457db199"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/sync-community-pets.ts": {
+    "mtime": 1777773390.37211,
+    "hash": "4143d3e61da0fb200e56803a934f5871"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/postinstall.mjs": {
+    "mtime": 1777773390.37211,
+    "hash": "1cbd1f959671f4ecfbb30c32e89c93b5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/bake-html-ppt-examples.mjs": {
+    "mtime": 1777773390.37211,
+    "hash": "81209e0831190c3dee656d35b675d989"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/bake-community-pets.ts": {
+    "mtime": 1777773390.3711097,
+    "hash": "924ab306c2d6b636ad5e5663b95c62c4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/scaffold-html-ppt-skills.mjs": {
+    "mtime": 1777773390.37211,
+    "hash": "f1e1af8f4328ca19b83fe37d644e8b91"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/sync-litellm-models.ts": {
+    "mtime": 1777773390.37211,
+    "hash": "c99933b3cfe445ffd2a2ab3da617c2cd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/release-beta.ts": {
+    "mtime": 1777773390.37211,
+    "hash": "6ed29daf21acf616d5d9b929a0d86559"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/sync-hyperframes-skill.mjs": {
+    "mtime": 1777773390.37211,
+    "hash": "60fbbc1d41f8d9ccb839d7ce1ae7b287"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/import-prompt-templates.mjs": {
+    "mtime": 1777773390.37211,
+    "hash": "b38980bc887d24573bf2a926814b38bc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/sync-design-systems.ts": {
+    "mtime": 1777773390.37211,
+    "hash": "7e27e83095a0a3bd53cf9224f3916093"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/release-stable.ts": {
+    "mtime": 1777773390.37211,
+    "hash": "f53c196990e201fdd48a761490ec1933"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/verify-media-models.mjs": {
+    "mtime": 1777773390.37211,
+    "hash": "be2cbef868ee8d994bc96b8115e674ba"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/scripts/check-residual-js.ts": {
+    "mtime": 1777773390.37211,
+    "hash": "1996ddb34e690ef4770a9f417775deab"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/playwright.config.ts": {
+    "mtime": 1777773390.3635194,
+    "hash": "faf4429ec25ff819086f1d4cb302d23e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/vitest.config.ts": {
+    "mtime": 1777773390.3644323,
+    "hash": "7e8531f7c8f2eb5c6a4812c4488b0e8a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/tests/conversation-timestamps.test.tsx": {
+    "mtime": 1777773390.3644323,
+    "hash": "b4107d20482e79994dabecf670188ef7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/tests/todos.test.ts": {
+    "mtime": 1777773390.3644323,
+    "hash": "561984110565bec1f7fc3851157f106f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/tests/structured-streams.test.ts": {
+    "mtime": 1777773390.3644323,
+    "hash": "3b6ae917f6f128656862e559ec06018e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/tests/assistant-message.test.tsx": {
+    "mtime": 1777773390.3640897,
+    "hash": "41f29fcbb259cb3121aef2867fcd50bf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/tests/preview-modal-fullscreen.test.tsx": {
+    "mtime": 1777773390.3644323,
+    "hash": "c20e93b4cf31f67812c5b41f495d797c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/types.ts": {
+    "mtime": 1777773390.3635194,
+    "hash": "5f57102f2768f2ab2a160f02e3823362"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/report-metadata.ts": {
+    "mtime": 1777773390.3635194,
+    "hash": "581acd4f0c8322b61cb263acb5460b87"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/index.ts": {
+    "mtime": 1777773390.363349,
+    "hash": "c513058530ae0f50874469dae8c52c1f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/scripts/runtime-adapter.e2e.live.test.ts": {
+    "mtime": 1777773390.3640897,
+    "hash": "a1fb6d50d041a794c9ce365ce7fe1d28"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/scripts/reset-artifacts.ts": {
+    "mtime": 1777773390.363973,
+    "hash": "ab810f460b162f5e42b91a7276d76a74"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/specs/app.spec.ts": {
+    "mtime": 1777773390.3640897,
+    "hash": "a4efff20c045bb2be87e9ff9cda29e1f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/reporters/markdown-reporter.ts": {
+    "mtime": 1777773390.3635194,
+    "hash": "04092c423aedfd221b85c54533c04e1f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/scripts/contrast-report.mjs": {
+    "mtime": 1777773390.443078,
+    "hash": "9e59b265966fe06089031f73396499bc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/scripts/animation-map.mjs": {
+    "mtime": 1777773390.4422565,
+    "hash": "f1ec5cc156f247c19d64ddf21b338d3c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/scripts/package-loader.mjs": {
+    "mtime": 1777773390.443078,
+    "hash": "926cd9e8c23abb1423f45b2b685b63aa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pptx-html-fidelity-audit/scripts/verify_layout.py": {
+    "mtime": 1777773390.4456384,
+    "hash": "647d05906db184f6939ee9911742ee0a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pptx-html-fidelity-audit/scripts/extract_pptx.py": {
+    "mtime": 1777773390.4456384,
+    "hash": "30b385ddfaf8b962197616b6da4735e5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/runtime.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "6f8f328ef7b3a72688c9593f4ff44184"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx-runtime.js": {
+    "mtime": 1777773390.3823633,
+    "hash": "6e344801716e32a7585929ee44a1c2c8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/gradient-blob.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "ed7fa5aca6058db020268040de2b1bdf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/neural-net.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "e872928ef7d51144f8eda1bef7f8cd89"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/starfield.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "72eaa1860637ff86f9598b4f34f0e0f5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/particle-burst.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "68edbdec64afa463982abd62c9fe1a0b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/chain-react.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "15f83be71972d93feb616ea18ccb902f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/knowledge-graph.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "b7d5c502f8561205637429f57eef66d9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/counter-explosion.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "69bc1d4c9652c655f9287a776c32416e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/sparkle-trail.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "1c1bad8ad6a0be19363b960296a0b271"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/shockwave.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "9f6ede50edbf6fe9485aa6122c436788"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/data-stream.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "975222ef0f222f2d3f7d8912a5327734"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/matrix-rain.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "b8e77c90ccbb3e97b87f4dd16cb38ea1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/magnetic-field.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "b8795c77f05cb7c21c5baf2135dcbebf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/constellation.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "7ba6bf0b2c7ce3d63ccd129eca9c6f49"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/confetti-cannon.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "d3085b7276fcac2193cd83ba181bb0c9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/galaxy-swirl.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "35a92cb44bbe5cd693bc82cf25d88371"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/firework.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "eac98acb1d1b7e42719237d416c14f31"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/_util.js": {
+    "mtime": 1777773390.3823633,
+    "hash": "e1ac3b00e4315cf6a0c34208ff893048"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/typewriter-multi.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "cfbb5fe7c45d136f6b22f90f43cc0a46"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/orbit-ring.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "74ef46d96acf4750fd5ad07600e566b8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/letter-explode.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "453cd71cd5e06edb2ff52b21dd53e569"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/assets/animations/fx/word-cascade.js": {
+    "mtime": 1777773390.3824873,
+    "hash": "fdabca5c605678afe7b2014559a2fc83"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/extract_strip_frames.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "bd3cb79e1864713e0e56787e7a79ca22"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/prepare_pet_run.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "d2ef8a0f68646d2b7a17b6fc8960f91b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/compose_atlas.py": {
+    "mtime": 1777773390.3773715,
+    "hash": "615de711cf17d04e9eff4cc403cc70e0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/render_animation_videos.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "7a778988202d36e611cf65665fa51e3a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/validate_atlas.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "86ab2571f0624ffeba48a64186e2ac05"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/generate_pet_images.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "c77d01130c7a7384514757319880cec7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/record_imagegen_result.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "98278d9e60da2eec0cf59c4c66861b9e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/derive_running_left_from_running_right.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "98114aded3ca07594d136cf0ada810aa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/queue_pet_repairs.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "2911eaa276291166f37665f11bd7c7f7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/package_custom_pet.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "62fc6e64e70fdf884c49590dd056617a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/make_contact_sheet.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "714fad0f81f5ad1620d0c4107a282991"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/finalize_pet_run.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "038795be9ba8de43f698c4aa474d7640"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/inspect_frames.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "19ebd8ca1b4be621205b0a6fdced0bdc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/scripts/pet_job_status.py": {
+    "mtime": 1777773390.3775494,
+    "hash": "762b7b5a94a1df2d631e00df321c35de"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/esbuild.config.mjs": {
+    "mtime": 1777773390.451191,
+    "hash": "2a80650a2321c933a3b2864c8ce7e3b1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/src/win.ts": {
+    "mtime": 1777773390.4552288,
+    "hash": "f061b936caa6bd41c4b5f7389c246582"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/src/mac.ts": {
+    "mtime": 1777773390.4552288,
+    "hash": "4651ee89c6d01e690b1d72679034138c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/src/config.ts": {
+    "mtime": 1777773390.4541125,
+    "hash": "37622d80c835963f0acd1ba468ee8518"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/src/resources.ts": {
+    "mtime": 1777773390.4552288,
+    "hash": "37ee4cf6198203759116e4c430109d4b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/src/index.ts": {
+    "mtime": 1777773390.4552288,
+    "hash": "aae1a68b668d68ff40806e73b4449d18"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/bin/tools-pack.mjs": {
+    "mtime": 1777773390.451191,
+    "hash": "37797f3ba39129ee9bb60f7da6923d9a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/esbuild.config.mjs": {
+    "mtime": 1777773390.450555,
+    "hash": "ff5d7b8ae2cac282c1dcc961e686e00c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/src/config.ts": {
+    "mtime": 1777773390.450555,
+    "hash": "bf1d640951a13290be67a1b045b97237"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/src/sidecar-client.ts": {
+    "mtime": 1777773390.4507775,
+    "hash": "b6e7cc5bc5ccd8b6f61de4e746959df6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/src/diagnostics.test.ts": {
+    "mtime": 1777773390.4507775,
+    "hash": "7df0bb927201b053f1cc46daef0df0d3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/src/diagnostics.ts": {
+    "mtime": 1777773390.4507775,
+    "hash": "a871c26537be943b574be1f3ec5356ee"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/src/index.ts": {
+    "mtime": 1777773390.4507775,
+    "hash": "26ac30c0c23dfcfc3747f8c0bd6dfb23"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/dev/bin/tools-dev.mjs": {
+    "mtime": 1777773390.450555,
+    "hash": "bb793138ffc720b41890a09ac5b28df2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/platform/esbuild.config.mjs": {
+    "mtime": 1777773390.3660989,
+    "hash": "a3090240b9894e3e34eae79b99b31ccb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/platform/src/index.test.ts": {
+    "mtime": 1777773390.3663044,
+    "hash": "9c2fb4343358c5387bcaa6dbc2c5e9b8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/platform/src/index.ts": {
+    "mtime": 1777773390.3664153,
+    "hash": "94b858481c8106f8dfb9e0aa1db20b62"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/sidecar-proto/esbuild.config.mjs": {
+    "mtime": 1777773390.3664153,
+    "hash": "d1d110d868879590fb987c4eaf8c790b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/sidecar-proto/src/index.test.ts": {
+    "mtime": 1777773390.366605,
+    "hash": "406a57fcac6a7d7c449768b18783b80a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/sidecar-proto/src/index.ts": {
+    "mtime": 1777773390.3667057,
+    "hash": "899d700f1d4b689f830fb4e206796242"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/sidecar/esbuild.config.mjs": {
+    "mtime": 1777773390.3667057,
+    "hash": "a3090240b9894e3e34eae79b99b31ccb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/sidecar/src/index.test.ts": {
+    "mtime": 1777773390.3669002,
+    "hash": "351156abe5f290264245bc5e5e1bdd87"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/sidecar/src/index.ts": {
+    "mtime": 1777773390.367008,
+    "hash": "0307424fd84b27181628262c9baf854d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/common.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "f2b7ee42cc7aadfe4e181f82e6792d3b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/errors.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "fc080263edad0a90d84e6e2805772b67"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/tasks.ts": {
+    "mtime": 1777773390.3660989,
+    "hash": "553fa0a6e308aa19f7d07d61e246843e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/examples.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "33d320883b307a72964d4b08fc27432d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/index.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "dc4e247677b9f18d18de52842ca6d97f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/sse/proxy.ts": {
+    "mtime": 1777773390.3660989,
+    "hash": "648886df9da433d0be0206c3b40cbe0b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/sse/common.ts": {
+    "mtime": 1777773390.3660989,
+    "hash": "cd8f3ec6371721aed61d69ca7a8524cb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/sse/chat.ts": {
+    "mtime": 1777773390.3655756,
+    "hash": "4981afe90f9f659efa0bd991fbc3ac67"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/proxy.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "3bc989cfcbdb6ce09e91763fad857e9f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/comments.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "3e49d521a4d88a4cbe613cb663f24e59"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/files.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "7f3d0acf634220d22127e51c3d086bc7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/registry.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "3f0a4da3e1ba75794aada5c7af9dd437"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/version.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "811b55a801a62c2a6c621e39fcf6e8e4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/projects.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "3559ced751acb8e5d09fd493adca2933"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/chat.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "6306d6156462a414ef932df6d96147e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/api/artifacts.ts": {
+    "mtime": 1777773390.3648937,
+    "hash": "ba24b16f50402d5300f9f54f88a4c0b0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/prompts/discovery.ts": {
+    "mtime": 1777773390.3655756,
+    "hash": "845ed4134400ca27ad6aa2442ec52769"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/prompts/official-system.ts": {
+    "mtime": 1777773390.3655756,
+    "hash": "5bc889a77ab1f6d88e19a07abdaf9d7d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/prompts/directions.ts": {
+    "mtime": 1777773390.3655756,
+    "hash": "c327c0f40ceab02b368d16599a93416b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/prompts/media-contract.ts": {
+    "mtime": 1777773390.3655756,
+    "hash": "e9f670e7d50a2b9d1ac2f6cd81968172"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/prompts/deck-framework.ts": {
+    "mtime": 1777773390.3649776,
+    "hash": "167ff12ba4cb3dfcb6b3ee1386e2b9e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/contracts/src/prompts/system.ts": {
+    "mtime": 1777773390.3655756,
+    "hash": "5c06944b7a9e264fa196f5eadece1735"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/QUICKSTART.md": {
+    "mtime": 1777773390.1601026,
+    "hash": "fe704e3236e94a16a6938e0c47d03629"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/CLAUDE.md": {
+    "mtime": 1777773390.1571026,
+    "hash": "5c27369b226fcf2be8a6cfe52224e767"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/README.zh-TW.md": {
+    "mtime": 1777773390.1671028,
+    "hash": "55968502badb33266f0b84dfd43a121e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/README.ja-JP.md": {
+    "mtime": 1777773390.1621027,
+    "hash": "1c39416c8a64af1ed2fa25a03ca2f01b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/README.zh-CN.md": {
+    "mtime": 1777773390.1671028,
+    "hash": "e2e575c45bae3859a6d2a275047e5d34"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/QUICKSTART.ja-JP.md": {
+    "mtime": 1777773390.1591027,
+    "hash": "2a032f9c80d2bc3967aad1fd02046406"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/CHANGELOG.md": {
+    "mtime": 1777773390.1571026,
+    "hash": "1c0c2331019e93f3175a2914eb940513"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/CONTRIBUTING.de.md": {
+    "mtime": 1777773390.1571026,
+    "hash": "271a166b9b8f97d6accb010b4a6085c1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/CONTRIBUTING.zh-CN.md": {
+    "mtime": 1777773390.1581025,
+    "hash": "bb2768f96419020de0dadddf41e142fe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/QUICKSTART.de.md": {
+    "mtime": 1777773390.1591027,
+    "hash": "df6e06cd20adb82930aa2348b2526b17"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/TRANSLATIONS.md": {
+    "mtime": 1777773390.1671028,
+    "hash": "fb57f52f90b0e0691216b26af0303c4a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/AGENTS.md": {
+    "mtime": 1777773390.156587,
+    "hash": "e096e1083fdc4bf30d1e3264b7441892"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/README.md": {
+    "mtime": 1777773390.1641028,
+    "hash": "b352e66c441ae48eb4d6fa451d25eb8b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/README.ko.md": {
+    "mtime": 1777773390.1631029,
+    "hash": "22ddbd9cfafbc4c8b88842f83127f161"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/pnpm-workspace.yaml": {
+    "mtime": 1777773390.3671095,
+    "hash": "a810052813069fef24180578f9fc6a22"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/CONTRIBUTING.md": {
+    "mtime": 1777773390.1581025,
+    "hash": "07cfcd01770298efb1448b8196c4a8cc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/CONTRIBUTING.ja-JP.md": {
+    "mtime": 1777773390.1571026,
+    "hash": "151a150f375b9dd3798ff101fee73c05"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/README.de.md": {
+    "mtime": 1777773390.1611028,
+    "hash": "c4e44ecd9c60baa9ad990c0dface76c1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/architecture.md": {
+    "mtime": 1777773390.3103416,
+    "hash": "42778335fe5de8c7dfb569916e249f1f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/references.md": {
+    "mtime": 1777773390.3575456,
+    "hash": "7ac07a40643fe08b0eef251114796ba2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/skills-protocol.md": {
+    "mtime": 1777773390.3621094,
+    "hash": "6310848677559e6789835ca0bce9fd10"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/agent-adapters.md": {
+    "mtime": 1777773390.3091078,
+    "hash": "7e9dc376c8a94f50c94c0de1515cbddf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/spec.md": {
+    "mtime": 1777773390.3621094,
+    "hash": "20dad6a1025dbc3e46dcff1436b33b44"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/codex-pets.md": {
+    "mtime": 1777773390.3561091,
+    "hash": "2b24951d7618d53fe9f7c07f290fa8d3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/modes.md": {
+    "mtime": 1777773390.3575456,
+    "hash": "701ea135619db365b83748eb0b1ee963"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/roadmap.md": {
+    "mtime": 1777773390.3575456,
+    "hash": "9eaaf8d99fa16dfdae685f2d435962fe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/_cover/star.html": {
+    "mtime": 1777773390.3106205,
+    "hash": "686cd1d4aef447d4858bf3050896864b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/_cover/library.html": {
+    "mtime": 1777773390.3106205,
+    "hash": "150a737577f33b829b198a462409ea79"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/_cover/banner.html": {
+    "mtime": 1777773390.3105066,
+    "hash": "6887dc84ba88b9ca8f96805cf9197cc9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/examples/DESIGN.sample.md": {
+    "mtime": 1777773390.3561091,
+    "hash": "d68b6da9ea8b1b1077f59e6a4a3a2bdc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/examples/saas-landing-skill/SKILL.md": {
+    "mtime": 1777773390.3575456,
+    "hash": "458008adcb3caf72131c94e4a6308dd1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/templates/kami-deck.html": {
+    "mtime": 1777773390.450356,
+    "hash": "60e1a312699170146bf36986f8ef4fb3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/templates/deck-framework.html": {
+    "mtime": 1777773390.4502249,
+    "hash": "83a03eb45ba869ae4c6d69a123f846db"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/craft/anti-ai-slop.md": {
+    "mtime": 1777773390.2936025,
+    "hash": "0fe8e0eae7f0a28cf917f14806ace0fe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/craft/color.md": {
+    "mtime": 1777773390.2936025,
+    "hash": "4b4af960396cd85eda3d734a0caa5e6c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/craft/README.md": {
+    "mtime": 1777773390.292107,
+    "hash": "1b8a4b9749b0cbef63d5b707256e3104"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/craft/typography.md": {
+    "mtime": 1777773390.2936025,
+    "hash": "e975594c13352898fc5c50af48a0c9b4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/AGENTS.md": {
+    "mtime": 1777773390.1671028,
+    "hash": "1d9156344d23a417ee8bf0f6437fb02e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/AGENTS.md": {
+    "mtime": 1777773390.1849174,
+    "hash": "9a05e8a68b52dae82c60ae9b173b5522"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/packaged/README.md": {
+    "mtime": 1777773390.185452,
+    "hash": "db4996dc1c22e2ec9ee68233e4f16670"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/README.zh-CN.md": {
+    "mtime": 1777773390.3632624,
+    "hash": "1f8c727b12fd29c78581330d3a90c0d1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/modules/conversations.md": {
+    "mtime": 1777773390.363349,
+    "hash": "5c30bdc45fdf089281c6f98464b4d01c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/modules/files.md": {
+    "mtime": 1777773390.3635194,
+    "hash": "070702924000aa97296222ffdc7d448d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/cases/modules/project-and-generation.md": {
+    "mtime": 1777773390.3635194,
+    "hash": "58abbbc0fa6c30d4746fde09850c21eb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/reports/README.zh-CN.md": {
+    "mtime": 1777773390.3635194,
+    "hash": "166c76ecc81c0d87c7a8f00126364524"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/e2e/reports/ui-test-report.html": {
+    "mtime": 1777773390.363973,
+    "hash": "73db278e7746d5db51e98736b80b48ae"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/specs/change/20260430-implement-maintainability-w2-w3/spec.md": {
+    "mtime": 1777773390.4494987,
+    "hash": "18a293b6bd6f30a963c9fa7ad19be076"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/specs/current/architecture-boundaries.md": {
+    "mtime": 1777773390.4494987,
+    "hash": "5179fdf9de0bb8b979ac42f88a4f99ff"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/specs/current/runtime-adapter.md": {
+    "mtime": 1777773390.44985,
+    "hash": "4a1cf54f87fcd0c3e29a086f7095a315"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/specs/current/status.md": {
+    "mtime": 1777773390.44985,
+    "hash": "fd91c8d56a5d138d11cde7a8ec569516"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/specs/current/run.md": {
+    "mtime": 1777773390.44985,
+    "hash": "c3b3eca8540f0a916e4f55b7f2f2d521"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/specs/current/maintainability-roadmap.md": {
+    "mtime": 1777773390.44985,
+    "hash": "2da9cba70b35d0c6c4f73ea499316fde"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-hermes-cyber-terminal/example.html": {
+    "mtime": 1777773390.3797874,
+    "hash": "f1b8a2a43913ba23fbc19f246ee473d3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-hermes-cyber-terminal/SKILL.md": {
+    "mtime": 1777773390.3795283,
+    "hash": "40d5ec040904e3564449d56331490bdc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/dating-web/example.html": {
+    "mtime": 1777773390.3744874,
+    "hash": "cae641dbff59dd13a14f2b076ae2f296"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/dating-web/SKILL.md": {
+    "mtime": 1777773390.3743317,
+    "hash": "9c5bd81adfe32a9f1729aa284fd55b45"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-xhs-post/example.html": {
+    "mtime": 1777773390.3815033,
+    "hash": "d75d51a740591e8789cb73f49703b811"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-xhs-post/SKILL.md": {
+    "mtime": 1777773390.3813243,
+    "hash": "ed2ea3a92f5de5ad968b31ed6aa93bb6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/video-shortform/example.html": {
+    "mtime": 1777773390.4485729,
+    "hash": "68917e281ccaff939e4c5ec594125655"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/video-shortform/SKILL.md": {
+    "mtime": 1777773390.4482594,
+    "hash": "1b5de5ef183b3bdbb385ad4d1ce45d5e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/visual-styles.md": {
+    "mtime": 1777773390.443078,
+    "hash": "449443acac82d0601f47692db87e0d04"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/data-in-motion.md": {
+    "mtime": 1777773390.4411352,
+    "hash": "51c7633d20954812a4b01a853c8c4eb7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/SKILL.md": {
+    "mtime": 1777773390.440112,
+    "hash": "4172f32fba958aebfcdd2b38475c9cc3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/patterns.md": {
+    "mtime": 1777773390.441313,
+    "hash": "27267f74eb889d7ab7b5989a20e91ee9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/house-style.md": {
+    "mtime": 1777773390.4411352,
+    "hash": "9e831031266ce1607ce78e0a5a8b4495"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transcript-guide.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "79bb9ad445f0f37dc6b135a5dff27d06"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/motion-principles.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "667acda1d0e4d1669136fec2309f5a1d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "72116d342bab6a063847f10b01b6bebe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/captions.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "6e362bfec8b534ec3efe45a1c0dacdd6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/css-patterns.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "6e9f703076159fd0fa593c2731cd3163"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/dynamic-techniques.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "d0068f3d068946842468c99a2597e2a4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/typography.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "964e9f6bb71758a326f76d025c0660c9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/audio-reactive.md": {
+    "mtime": 1777773390.441313,
+    "hash": "a846a440b8c922d129e40de17d1c684f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/tts.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "0019407daa9af87dc470c4779c55ca0d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/catalog.md": {
+    "mtime": 1777773390.4417126,
+    "hash": "06805860008927fef0181cfc891bb262"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-distortion.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "e0e4d98acc862582b4ecfa707ce9f5f3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-destruction.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "2296659ab062931df9b267f0d9e941ab"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-other.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "9e75de3cbb224148bc6c124e1457ddd3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-3d.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "2059336920cad226ef2552ea954c31aa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-light.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "e100d2db32e2f61160d231ed6dbae415"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-cover.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "d8a11743997e7592bc3019f67566c6bb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-scale.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "24e86c00ecab0c0f1f5acc8f0667faa9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-grid.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "f451818d25efbdea519083e14b4da2de"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-blur.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "941e56f6d4f456497540796257172dba"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-radial.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "d150318b42ceff493c9b84f4c5052c43"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-mechanical.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "d29fffd4912e8e15b7120d7fc3858f8a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-dissolve.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "2383a376152d8a2aba04ddb2e451373c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/references/transitions/css-push.md": {
+    "mtime": 1777773390.4422565,
+    "hash": "9e8f75348d9fea5f8d72e85d6b3fa01a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/pastel-soft.md": {
+    "mtime": 1777773390.441313,
+    "hash": "b74f9bb4ac231c7d37dd496443fdbdeb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/monochrome.md": {
+    "mtime": 1777773390.441313,
+    "hash": "ce9620d338ce0b5ba7f6800714012f5a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/warm-editorial.md": {
+    "mtime": 1777773390.441313,
+    "hash": "b8285bc4e1f0c5a7a20420bd1dc210a1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/jewel-rich.md": {
+    "mtime": 1777773390.441313,
+    "hash": "92abdaae06dfb6edcfc68cb631550c9c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/bold-energetic.md": {
+    "mtime": 1777773390.4411352,
+    "hash": "616606d70204916d8c3cb97285ee3394"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/clean-corporate.md": {
+    "mtime": 1777773390.441313,
+    "hash": "67ca594cd48b0db43c74775fa53e7c6e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/neon-electric.md": {
+    "mtime": 1777773390.441313,
+    "hash": "7e8667e0d672d10f7aacb491852008ca"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/nature-earth.md": {
+    "mtime": 1777773390.441313,
+    "hash": "96002478baa0fe96782a1c7d4b6ad0b1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hyperframes/palettes/dark-premium.md": {
+    "mtime": 1777773390.441313,
+    "hash": "e71a253bf6e0f0e05da1d4effe7a4150"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/invoice/example.html": {
+    "mtime": 1777773390.443544,
+    "hash": "60dfedbdc13679d18026cb228fe04b73"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/invoice/SKILL.md": {
+    "mtime": 1777773390.4434164,
+    "hash": "9d1db61e0a527ff828deca9363210d3a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-onboarding/example.html": {
+    "mtime": 1777773390.4446814,
+    "hash": "0e42ccbf76816857f496e73f3269fec3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-onboarding/SKILL.md": {
+    "mtime": 1777773390.4445038,
+    "hash": "fddd14e657ab70177de1ba567b19d55f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/kanban-board/example.html": {
+    "mtime": 1777773390.4436998,
+    "hash": "4ea2dafff20fc226658976f0e86d989c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/kanban-board/SKILL.md": {
+    "mtime": 1777773390.443544,
+    "hash": "fe5aa91f9f47ee877a455d5ba82cecd9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-obsidian-claude-gradient/example.html": {
+    "mtime": 1777773390.3801334,
+    "hash": "171dc6687210a6f2e9f73b449dc51ff9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-obsidian-claude-gradient/SKILL.md": {
+    "mtime": 1777773390.3799314,
+    "hash": "2c518c46d9f0873227ec8997d50a80c7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/motion-frames/example.html": {
+    "mtime": 1777773390.444852,
+    "hash": "5a4586d8d073979827ce22e466321324"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/motion-frames/SKILL.md": {
+    "mtime": 1777773390.4446814,
+    "hash": "0c38b0376f0e273421152169c8f9b63d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/dashboard/example.html": {
+    "mtime": 1777773390.3743317,
+    "hash": "cff921c0103ac39ccca658977711b7bb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/dashboard/SKILL.md": {
+    "mtime": 1777773390.3740966,
+    "hash": "433d2f824158e56ae6376a30f59db725"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-tech-sharing/example.html": {
+    "mtime": 1777773390.3808951,
+    "hash": "78a85521a41ed85490e566b281ba0b9e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-tech-sharing/SKILL.md": {
+    "mtime": 1777773390.3806734,
+    "hash": "fa81fab2f30b7b2cc5a7d530287113dc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/social-carousel/example.html": {
+    "mtime": 1777773390.447696,
+    "hash": "bb84c3e9098333c10f3b06ab8d5c33e8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/social-carousel/SKILL.md": {
+    "mtime": 1777773390.447531,
+    "hash": "3cd2d3e763dcbe5edb2abb868dc61bd0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pricing-page/example.html": {
+    "mtime": 1777773390.4458473,
+    "hash": "bb6b77aa8fc7e5066eb5b539ba552dbd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pricing-page/SKILL.md": {
+    "mtime": 1777773390.4456384,
+    "hash": "8c6c2feae42dd2bfaca77d8ba47af12e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/finance-report/example.html": {
+    "mtime": 1777773390.37547,
+    "hash": "c233de42a0cbd95654851d282239f0a8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/finance-report/SKILL.md": {
+    "mtime": 1777773390.375298,
+    "hash": "f6d95b6640685e6acf71a524ef85468f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/audio-jingle/example.html": {
+    "mtime": 1777773390.3737473,
+    "hash": "b4d473aadbd6d7e55fae669623e47359"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/audio-jingle/SKILL.md": {
+    "mtime": 1777773390.3736603,
+    "hash": "7db3f868f986a43e767400ec5b5f5a04"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/sprite-animation/example.html": {
+    "mtime": 1777773390.4478822,
+    "hash": "99b4c9010666aef9d74560d1903016d7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/sprite-animation/SKILL.md": {
+    "mtime": 1777773390.447696,
+    "hash": "46616727e58329d3dc539310b0f43698"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-weekly-report/example.html": {
+    "mtime": 1777773390.3811972,
+    "hash": "a3f0e52954f3b716b40654d2efe2f89e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-weekly-report/SKILL.md": {
+    "mtime": 1777773390.381075,
+    "hash": "5b5d5af916cfb4f4ea2b1ca2fab8fb19"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/image-poster/example.html": {
+    "mtime": 1777773390.4434164,
+    "hash": "ac64ffef0933f9b0fd9f4128b750bbfc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/image-poster/SKILL.md": {
+    "mtime": 1777773390.443078,
+    "hash": "25b3917c2221f22336a754013eac755e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/tweaks/example.html": {
+    "mtime": 1777773390.4482594,
+    "hash": "abe844623d0bcc7221e53a18a604c64d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/tweaks/SKILL.md": {
+    "mtime": 1777773390.4480512,
+    "hash": "3e9441f8369e926f40a8847f9507993c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/tweaks/assets/wrap.html": {
+    "mtime": 1777773390.4482594,
+    "hash": "0f533d812856e9ebb95668bcefa5df81"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-knowledge-arch-blueprint/example.html": {
+    "mtime": 1777773390.3799314,
+    "hash": "2cfec607b0ede5b1c3b76e30cf08b91b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-knowledge-arch-blueprint/SKILL.md": {
+    "mtime": 1777773390.3797874,
+    "hash": "dd6281a6880dcb143c4f499f63948f63"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pptx-html-fidelity-audit/SKILL.md": {
+    "mtime": 1777773390.4450054,
+    "hash": "4f028afc7b042ddca07a1366c726c0b9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pptx-html-fidelity-audit/references/font-discipline.md": {
+    "mtime": 1777773390.4453468,
+    "hash": "768e8d516aee34acaf880728a325acd3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pptx-html-fidelity-audit/references/audit-table-template.md": {
+    "mtime": 1777773390.4452715,
+    "hash": "c9babd108cb7dd6f557c3778b0489d4d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pptx-html-fidelity-audit/references/layout-discipline.md": {
+    "mtime": 1777773390.4453468,
+    "hash": "db59f7d8832cf45b12a556445e98a2d2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/README.zh-CN.md": {
+    "mtime": 1777773390.381888,
+    "hash": "3854ae90c885b0021249c30570b73c0b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/SKILL.md": {
+    "mtime": 1777773390.381888,
+    "hash": "67d079c3611667f3733617b29b55085a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/README.md": {
+    "mtime": 1777773390.381888,
+    "hash": "a007b7568e3aae865041de35ae31971a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/references/themes.md": {
+    "mtime": 1777773390.4073534,
+    "hash": "af57449fa02a822ad69f646844c3cf70"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/references/presenter-mode.md": {
+    "mtime": 1777773390.4073534,
+    "hash": "b56df79142acc710f5e8e737f9ccacfc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/references/layouts.md": {
+    "mtime": 1777773390.4073534,
+    "hash": "2171dc85575b1fdf3da21be7f0b1f19b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/references/authoring-guide.md": {
+    "mtime": 1777773390.4073534,
+    "hash": "bb97a795dcd36470c6c8ca1e0152c264"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/references/animations.md": {
+    "mtime": 1777773390.4071286,
+    "hash": "f5c1b1bec0e57e9042e9c5248ac9045d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/references/full-decks.md": {
+    "mtime": 1777773390.4073534,
+    "hash": "d0b5af8df2498e5719b26157e697a44d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/montage-layouts.html": {
+    "mtime": 1777773390.4011106,
+    "hash": "530c51046fb10050b7672e9aa638d23b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/montage-themes.html": {
+    "mtime": 1777773390.4011106,
+    "hash": "f04874c29e28c2d8104989c2b38e25e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/montage-templates.html": {
+    "mtime": 1777773390.4011106,
+    "hash": "2e7d4feb6e9c5905630064101e7f1e84"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/montage-animations.html": {
+    "mtime": 1777773390.4001107,
+    "hash": "7edaebe66c8d648b4ca204c2e64914f0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/_theme-cell.html": {
+    "mtime": 1777773390.3850844,
+    "hash": "39d1c892d04619800da39ed8e2c2bbc6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/deck.html": {
+    "mtime": 1777773390.436184,
+    "hash": "31f1cc217acd7533e0253bf4b9a1655d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/theme-showcase.html": {
+    "mtime": 1777773390.440112,
+    "hash": "c0985f1134f30219d2eb803b0905873d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks-index.html": {
+    "mtime": 1777773390.436184,
+    "hash": "b17cd0af1a3117f1c4549adc6fe05855"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/animation-showcase.html": {
+    "mtime": 1777773390.4351118,
+    "hash": "85d72fa40643c7de00d4a943e7e47f99"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/layout-showcase.html": {
+    "mtime": 1777773390.4392846,
+    "hash": "7ec6183ea9a2d764378bfa6de8993ef0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/bullets.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "ee76d888b74041f43ba5eac096a650b4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/section-divider.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "87edb52e2b307cdf1c914c39c786b616"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/process-steps.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "c1c94d19696219c3dec18f57dff22377"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/image-hero.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "bc46e2f9ead4b4a1c82133010cf8056c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/toc.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "1f2d575fc5cf4adabf8b6d8b2191c3b7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/chart-radar.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "f55ea4d466b4136acbc7dda0ce643db0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/cta.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "7595fe548281bb3ec91d81e94feb484b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/code.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "ac68ff5583c89fe7ce1070265675f6bb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/mindmap.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "14bcd276a8a3827d187e2f9e277865c7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/thanks.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "d16f90a3775dc4c256c20fd52e17f06e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/comparison.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "32be659ce588b0aa809724721691cc4e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/big-quote.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "1f337afebb64d1ec12f6c05a91ae2e75"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/image-grid.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "66f65cd003e48494c4d1f7f58668edd5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/gantt.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "6a82569de109597f2f79e44e66cd7e34"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/flow-diagram.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "4d8370644b6f0d914e47c5fcb3362c57"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/cover.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "12394ec461af78aa628f59ae6d4984e7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/terminal.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "9d0de0535563a8a091898c1c1a7b37c7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/roadmap.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "f21d94163c3a99e614a2e8214a39623c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/timeline.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "eed9fd669233500a7310665890cc1e96"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/diff.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "ac13cbb4b9f5120d7d95e377afe89820"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/chart-bar.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "b51aede1a05bc0468e5e05cbe94ef2ee"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/kpi-grid.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "5e5d922e25ee62953ecb9231900e1855"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/todo-checklist.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "c394c975067005ec4538c59756f05b12"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/arch-diagram.html": {
+    "mtime": 1777773390.4392846,
+    "hash": "b51f2b23cdfc3fa323167ca1146ac4a5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/three-column.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "d44e628ecdd6179c495505978e42f9b4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/pros-cons.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "698356c49d5cd2d688597a1b26ab656d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/chart-line.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "352200f0d4d9f5b2947159cc46739824"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/two-column.html": {
+    "mtime": 1777773390.440112,
+    "hash": "57297fa8cb0d29d8dbd0bea716c6000d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/chart-pie.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "362fa53dfe8bd93739bfbd6870ba3972"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/table.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "4de391f316698afd4b0e27a32272b008"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/single-page/stat-highlight.html": {
+    "mtime": 1777773390.4395444,
+    "hash": "c54ed00dbd8f82512decf2b081af1775"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/hermes-cyber-terminal/index.html": {
+    "mtime": 1777773390.437045,
+    "hash": "98d6517d8f411df0e80da1ddb3afe494"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/hermes-cyber-terminal/README.md": {
+    "mtime": 1777773390.4368243,
+    "hash": "0ba84879bc3422c8de2486914bece722"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/xhs-post/index.html": {
+    "mtime": 1777773390.4390988,
+    "hash": "6d6e290a1c6379be845ee9614ccd4dfe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/xhs-post/README.md": {
+    "mtime": 1777773390.4388995,
+    "hash": "6cddddba3e7b680c7b594faa4ac8ce62"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/graphify-dark-graph/index.html": {
+    "mtime": 1777773390.4368243,
+    "hash": "8e7923f825644e1bf260a7e494b238cc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/graphify-dark-graph/README.md": {
+    "mtime": 1777773390.4366112,
+    "hash": "f99cfcc9caad95a7086c0fa5c8b61efa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/knowledge-arch-blueprint/index.html": {
+    "mtime": 1777773390.4372551,
+    "hash": "cba5e5bad526c6589a25af5f31306abc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/knowledge-arch-blueprint/README.md": {
+    "mtime": 1777773390.437045,
+    "hash": "c9f7b2a63216c95f13320b314b0873e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/tech-sharing/index.html": {
+    "mtime": 1777773390.4382815,
+    "hash": "12372734159ce9176d874804ee673710"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/tech-sharing/README.md": {
+    "mtime": 1777773390.4380994,
+    "hash": "ea42b3dfad335751941f4e7fc8e2f6b2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/testing-safety-alert/index.html": {
+    "mtime": 1777773390.4384837,
+    "hash": "e6241755810398eb894f0fce44a3d36e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/testing-safety-alert/README.md": {
+    "mtime": 1777773390.4382815,
+    "hash": "091d235b069a5207b404e9e7fd9f85eb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/obsidian-claude-gradient/index.html": {
+    "mtime": 1777773390.4374661,
+    "hash": "7e5f387adb20d35efe72cbea6cee631d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/obsidian-claude-gradient/README.md": {
+    "mtime": 1777773390.4372551,
+    "hash": "4ed867ef7f873adade00dbfd04fd0b4a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/weekly-report/index.html": {
+    "mtime": 1777773390.4386945,
+    "hash": "88dfdb495b400a20ba2e72a4b670d268"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/weekly-report/README.md": {
+    "mtime": 1777773390.4384837,
+    "hash": "be73bacad4bfc0c85a94002cf1cc69ba"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/presenter-mode-reveal/index.html": {
+    "mtime": 1777773390.4378738,
+    "hash": "7bd4c4f3c97117c9009cb68b00eb289d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/presenter-mode-reveal/README.md": {
+    "mtime": 1777773390.43766,
+    "hash": "4a7ea1e5b0ddcd6e5a382cf3458f40d3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/course-module/index.html": {
+    "mtime": 1777773390.4364054,
+    "hash": "4b044879ca5763c458b832618179661d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/course-module/README.md": {
+    "mtime": 1777773390.4363377,
+    "hash": "bd7c2d92b7b4b9303cb5c1c5e0224a54"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/pitch-deck/index.html": {
+    "mtime": 1777773390.43766,
+    "hash": "a6d951a3d819a19f3507226a13f81810"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/pitch-deck/README.md": {
+    "mtime": 1777773390.4374661,
+    "hash": "04ce8bf47545d14b5b2be76267666052"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/product-launch/index.html": {
+    "mtime": 1777773390.4380994,
+    "hash": "65a5705f677efd88c616e6c6637be2f6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/product-launch/README.md": {
+    "mtime": 1777773390.4378738,
+    "hash": "8694e33813088ac45ac6a39b5c85f6e5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/xhs-pastel-card/index.html": {
+    "mtime": 1777773390.4388995,
+    "hash": "4c54213443582796303412f39d3d94b2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/xhs-pastel-card/README.md": {
+    "mtime": 1777773390.4386945,
+    "hash": "a77dad5910007579aeaa319d5e1b6349"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/dir-key-nav-minimal/index.html": {
+    "mtime": 1777773390.4366112,
+    "hash": "5f00ebc731fba5c3e36093f3dfb7ce21"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/dir-key-nav-minimal/README.md": {
+    "mtime": 1777773390.4364054,
+    "hash": "5bda69d9ee3cf77fccf98a3f8c524588"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/xhs-white-editorial/index.html": {
+    "mtime": 1777773390.4392846,
+    "hash": "230f843c57f3d8426be12593478d04ee"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/templates/full-decks/xhs-white-editorial/README.md": {
+    "mtime": 1777773390.4390988,
+    "hash": "c1fc8e232f5af60f30d6b2211e661a59"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/examples/demo-deck/index.html": {
+    "mtime": 1777773390.4071286,
+    "hash": "053639733e01cb8715b8ad62aba10718"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-presenter-mode-reveal/example.html": {
+    "mtime": 1777773390.3804467,
+    "hash": "ff36e75d3bca4f51a6c99b4fe2be388f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-presenter-mode-reveal/SKILL.md": {
+    "mtime": 1777773390.3802621,
+    "hash": "b08fef8dcbd340fa909f91ae86e5aa27"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/docs-page/example.html": {
+    "mtime": 1777773390.3749847,
+    "hash": "d9294f745ffd39f699ef0c58d23757b2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/docs-page/SKILL.md": {
+    "mtime": 1777773390.374813,
+    "hash": "205250c92bdb1eb534354bef30e24472"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/design-brief/SKILL.md": {
+    "mtime": 1777773390.3744874,
+    "hash": "cc5dd74dc2c147dace3eb507ba067f99"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-dir-key-nav-minimal/example.html": {
+    "mtime": 1777773390.3792002,
+    "hash": "192510f2921c42fc679f7441426bf27b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-dir-key-nav-minimal/SKILL.md": {
+    "mtime": 1777773390.3788836,
+    "hash": "1699f566837bffa010137077166bf07f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-course-module/example.html": {
+    "mtime": 1777773390.3788836,
+    "hash": "c6f602df321042ebf2793de650d29d74"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-course-module/SKILL.md": {
+    "mtime": 1777773390.378585,
+    "hash": "4f57643f918c8ddabe4097105db0e7c9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-testing-safety-alert/example.html": {
+    "mtime": 1777773390.381075,
+    "hash": "e0d5f0d39378fddb8da199b07493b1c8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-testing-safety-alert/SKILL.md": {
+    "mtime": 1777773390.3808951,
+    "hash": "78b2a437c9a02cbc1d3de2064baff9ed"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/digital-eguide/example.html": {
+    "mtime": 1777773390.374813,
+    "hash": "0b5b681f279db22895cc6e50a448eea3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/digital-eguide/SKILL.md": {
+    "mtime": 1777773390.3744874,
+    "hash": "82fbd6829294273b0a87e1a41f3592c8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/weekly-update/example.html": {
+    "mtime": 1777773390.4491625,
+    "hash": "b378e9db3216f2ef46a1fe11e32bf245"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/weekly-update/SKILL.md": {
+    "mtime": 1777773390.449,
+    "hash": "9c7c0b87477c5cb7778f3866d8d27ee9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/SKILL.md": {
+    "mtime": 1777773390.4458473,
+    "hash": "4504bfadfba28c8e47edd0f656e0dfc5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/references/themes.md": {
+    "mtime": 1777773390.4467053,
+    "hash": "0e17d54decf5ecc9663ac6fac1ed7d9f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/references/checklist.md": {
+    "mtime": 1777773390.4463003,
+    "hash": "51c22282612f581ebacd99004cc44dc6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/references/layouts.md": {
+    "mtime": 1777773390.4467053,
+    "hash": "f659853568f53b69374933cd822989b2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/references/components.md": {
+    "mtime": 1777773390.4467053,
+    "hash": "7b7674fafc73e595f281b68bd12a5920"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/assets/template.html": {
+    "mtime": 1777773390.4460657,
+    "hash": "2ceb7648ad240b99b0fc09106220b5ca"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/examples/example-holm.html": {
+    "mtime": 1777773390.4463003,
+    "hash": "95ac6b927e7a3d5a6e9f5ea44220681b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/examples/example-bluehouse.html": {
+    "mtime": 1777773390.4463003,
+    "hash": "4e17e3a5c15165c081a41c07067d4af8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/examples/README.md": {
+    "mtime": 1777773390.4460657,
+    "hash": "a7e3e1ea3ea3766c190c5fdc821f1e10"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/examples/example-atlas.html": {
+    "mtime": 1777773390.4463003,
+    "hash": "1450102dcccd2f4670e5bac322c55064"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/replit-deck/examples/example-helix.html": {
+    "mtime": 1777773390.4463003,
+    "hash": "cd5f013cbfeea004f12b9ca4a84eb928"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hr-onboarding/example.html": {
+    "mtime": 1777773390.378585,
+    "hash": "1fed501e36910bf56e64a29122affff8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hr-onboarding/SKILL.md": {
+    "mtime": 1777773390.3775494,
+    "hash": "7fb50de0f92abdc7da5d3c5054993c65"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/README.en.md": {
+    "mtime": 1777773390.3758597,
+    "hash": "8da263b259c89946083d9d97acd09eeb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/SKILL.md": {
+    "mtime": 1777773390.3758597,
+    "hash": "91f45b3669d55741e82dae4f0c89afe8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/README.md": {
+    "mtime": 1777773390.3758597,
+    "hash": "25b0e404d15ec29ed6be5d609d4c3a6c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/references/themes.md": {
+    "mtime": 1777773390.3765404,
+    "hash": "7ca8e9426496db732d5b45fdd32bf70b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/references/checklist.md": {
+    "mtime": 1777773390.3762426,
+    "hash": "5f94edbd3b913893086a428b068d8195"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/references/layouts.md": {
+    "mtime": 1777773390.3765404,
+    "hash": "80b1dc7e3d8ac459b6080681dd2e18fa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/references/styles.md": {
+    "mtime": 1777773390.3765404,
+    "hash": "6a26d769738f7ca9a6ac722d8d96b7d9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/references/components.md": {
+    "mtime": 1777773390.3765404,
+    "hash": "ee8a2614f488d905c3142f96f1a7b9b3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/assets/template.html": {
+    "mtime": 1777773390.3762426,
+    "hash": "fe8581c94a584f90201e0220a3e8510c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/guizang-ppt/assets/example-slides.html": {
+    "mtime": 1777773390.3758597,
+    "hash": "338b78c9dbf6f432a4b0c4003a9479d8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/web-prototype/example.html": {
+    "mtime": 1777773390.4487247,
+    "hash": "66d212e7904786f439d5acd3ee802015"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/web-prototype/SKILL.md": {
+    "mtime": 1777773390.4485729,
+    "hash": "05976c781e5a6edd50de160d23c27fd4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/web-prototype/references/checklist.md": {
+    "mtime": 1777773390.4487247,
+    "hash": "60afa910de58fd0b4a14edb01d076c5e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/web-prototype/references/layouts.md": {
+    "mtime": 1777773390.449,
+    "hash": "ae64298fd39a7040644945c904c6fc98"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/web-prototype/assets/template.html": {
+    "mtime": 1777773390.4487247,
+    "hash": "cf3c42f3762f84d07c55f5d8bac2c15c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/blog-post/example.html": {
+    "mtime": 1777773390.3738916,
+    "hash": "da6f59256801512f43bbe3f5c6dbf356"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/blog-post/SKILL.md": {
+    "mtime": 1777773390.3737473,
+    "hash": "23d143becf4d4c81508efbd21de07465"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-app/example.html": {
+    "mtime": 1777773390.4442317,
+    "hash": "09d353ba4a47071a14a11e1da025aca4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-app/SKILL.md": {
+    "mtime": 1777773390.444043,
+    "hash": "35f7ecd15bf8696f1ef340122e2cc721"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-app/references/checklist.md": {
+    "mtime": 1777773390.4442317,
+    "hash": "ccb4912351040b48c0fbd5453a8b452a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-app/references/layouts.md": {
+    "mtime": 1777773390.4445038,
+    "hash": "b298ebb0be27b943ec998380187e1dca"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/mobile-app/assets/template.html": {
+    "mtime": 1777773390.4442317,
+    "hash": "38fefb7748dd4a4acd42207437d3a4f7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/team-okrs/example.html": {
+    "mtime": 1777773390.4480512,
+    "hash": "88788cebe1c77740c1e8452ad82d25e9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/team-okrs/SKILL.md": {
+    "mtime": 1777773390.4478822,
+    "hash": "aaba1a72008ee5561e256d4057868fc7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/simple-deck/example.html": {
+    "mtime": 1777773390.4472528,
+    "hash": "12e57c3473c5bf7a4346f5e0ae4943a1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/simple-deck/SKILL.md": {
+    "mtime": 1777773390.4470758,
+    "hash": "bb600789a0f9cbfa07110395a8092d38"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/simple-deck/references/checklist.md": {
+    "mtime": 1777773390.4472528,
+    "hash": "932f243d5a56489010f424b56ed8251b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/simple-deck/references/layouts.md": {
+    "mtime": 1777773390.447531,
+    "hash": "1f1fa2aec3fe6b6b83e2ee3f2b4ed514"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/simple-deck/assets/template.html": {
+    "mtime": 1777773390.4472528,
+    "hash": "4c7225b2cb159f055ff3eac95c906346"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-product-launch/example.html": {
+    "mtime": 1777773390.3806734,
+    "hash": "16a58039d601b0eff2e36f33ac4ef078"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-product-launch/SKILL.md": {
+    "mtime": 1777773390.3804467,
+    "hash": "e19ffe9719863d29567f4eabb5de02a0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-xhs-pastel-card/example.html": {
+    "mtime": 1777773390.3813243,
+    "hash": "e3d7a0eda44cf19f744ee2befbbfeea5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-xhs-pastel-card/SKILL.md": {
+    "mtime": 1777773390.3811972,
+    "hash": "917043e94d5d02637ee34e9ebae42394"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-pitch-deck/example.html": {
+    "mtime": 1777773390.3802621,
+    "hash": "16b8566ac047f65f0fd21aee9ce4405b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-pitch-deck/SKILL.md": {
+    "mtime": 1777773390.3801334,
+    "hash": "fd13179c488b26f4e68961e982567cca"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/email-marketing/example.html": {
+    "mtime": 1777773390.3751423,
+    "hash": "c0c2f1074cd54eef0b71a417c5f4fc36"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/email-marketing/SKILL.md": {
+    "mtime": 1777773390.3749847,
+    "hash": "c319fe79efe6a1d5472f0700c92c9097"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/critique/example.html": {
+    "mtime": 1777773390.3740966,
+    "hash": "d5e9ac4c98d3a93bdbcd3e9b58ad237f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/critique/SKILL.md": {
+    "mtime": 1777773390.3738916,
+    "hash": "404a1593b26d6ae2f77b7cecd0708c89"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-graphify-dark-graph/example.html": {
+    "mtime": 1777773390.3795283,
+    "hash": "eddb146cf5d96217b0f66b25b9752c8c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-graphify-dark-graph/SKILL.md": {
+    "mtime": 1777773390.3792002,
+    "hash": "8f164fbcc1b1eb3889988be5d1bc214f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-xhs-white-editorial/example.html": {
+    "mtime": 1777773390.38169,
+    "hash": "bcb86e53f0605d5f10ae111e520816b9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt-xhs-white-editorial/SKILL.md": {
+    "mtime": 1777773390.3815033,
+    "hash": "483f3b8e8f71099e2675e7845d4fe0d9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/eng-runbook/example.html": {
+    "mtime": 1777773390.375298,
+    "hash": "aab078ecef323f160a3604a57d5597a5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/eng-runbook/SKILL.md": {
+    "mtime": 1777773390.3751423,
+    "hash": "75ad33c0a98865a79cce96685cae1fab"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/gamified-app/example.html": {
+    "mtime": 1777773390.3756535,
+    "hash": "81979cac98ac11e66a5ce72c485ea6df"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/gamified-app/SKILL.md": {
+    "mtime": 1777773390.37547,
+    "hash": "ea32a96b5afd0b17e9d399d73335a868"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/magazine-poster/example.html": {
+    "mtime": 1777773390.4438872,
+    "hash": "7c6b9aaa3f130f24e339f051860dae04"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/magazine-poster/SKILL.md": {
+    "mtime": 1777773390.4436998,
+    "hash": "e3c1776331ed7670648df4a28db09569"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/saas-landing/example.html": {
+    "mtime": 1777773390.4470758,
+    "hash": "83b31e295f5586c5077bd34d5bc8780d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/saas-landing/SKILL.md": {
+    "mtime": 1777773390.4467053,
+    "hash": "788a15b9c6aefb5697e7c5783ef87c40"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pm-spec/example.html": {
+    "mtime": 1777773390.4450054,
+    "hash": "fc1b5e0b10fa0fec150bf5105d59b974"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/pm-spec/SKILL.md": {
+    "mtime": 1777773390.444852,
+    "hash": "0c90ba1488a33b2790af2b95368e1583"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/LICENSE.txt": {
+    "mtime": 1777773390.3765404,
+    "hash": "0bfdc0ac8ba46ed583d8fccc1e347dff"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/SKILL.md": {
+    "mtime": 1777773390.377039,
+    "hash": "a39f7298dac674fb69cf921d359d62c5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/README.md": {
+    "mtime": 1777773390.377039,
+    "hash": "261e7a59d20225ca953019ca09c5e8cb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/references/codex-pet-contract.md": {
+    "mtime": 1777773390.3773715,
+    "hash": "3a44b6fbe2041aa7d30c8a599d4cc985"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/references/animation-rows.md": {
+    "mtime": 1777773390.377039,
+    "hash": "24f6903d62399c81c7169671fa4b9768"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/references/qa-rubric.md": {
+    "mtime": 1777773390.3773715,
+    "hash": "2f5e8080cc4025baf1c48fea53d7e6f1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/hatch-pet/agents/openai.yaml": {
+    "mtime": 1777773390.377039,
+    "hash": "e9932650185de1bd2107085bbd8a1603"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/wireframe-sketch/example.html": {
+    "mtime": 1777773390.4493546,
+    "hash": "1b6a69654959307ba5cc72a25fa2127e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/wireframe-sketch/SKILL.md": {
+    "mtime": 1777773390.4491625,
+    "hash": "e23439e21ab4e2e9ea90a9daa8583647"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/meeting-notes/example.html": {
+    "mtime": 1777773390.444043,
+    "hash": "d649e42b39665aba132352586cad8b84"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/meeting-notes/SKILL.md": {
+    "mtime": 1777773390.4438872,
+    "hash": "696501aebb43fab547d17ab475d20883"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/frames/iphone-15-pro.html": {
+    "mtime": 1777773390.2365503,
+    "hash": "53f45236a10610d8a11ce57fee6110f0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/frames/android-pixel.html": {
+    "mtime": 1777773390.2365503,
+    "hash": "ab07d821e7b52e8b8a040c1eb977fa1e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/frames/browser-chrome.html": {
+    "mtime": 1777773390.2365503,
+    "hash": "6b6f70dd3fecd302618df09bae298e77"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/frames/ipad-pro.html": {
+    "mtime": 1777773390.2365503,
+    "hash": "387ec19b885f8022487445b3a1893bda"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/frames/macbook.html": {
+    "mtime": 1777773390.2365503,
+    "hash": "077c523fd4d6db5834addaa0f830f193"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/frames/README.md": {
+    "mtime": 1777773390.2351053,
+    "hash": "274e2b8aa3c9a9a3564d7f9d83ee4622"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/story/STORY.md": {
+    "mtime": 1777773390.44985,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/story/STORY.zh-CN.md": {
+    "mtime": 1777773390.44985,
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/README.md": {
+    "mtime": 1777773390.2936025,
+    "hash": "84093cda3aebcbef341570d7d192c2d2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/vodafone/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "cbc7c0dc99920b66f0ead936a9f71441"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/energetic/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "33bee2ea19ed40a9374b95b2becda94a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/mintlify/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "c889a59ed0120f66353a81d0b7643517"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/huggingface/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "0bf759147dce668734cd37b3ac9faacd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/professional/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "e17f5c2b3952bcbd9b9545f16a3ba345"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/zapier/DESIGN.md": {
+    "mtime": 1777773390.3091078,
+    "hash": "bf927fb6fc788c9ddc27ccbcb8689ce8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/raycast/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "c16914fb7ca9581e3adb000574ffc3b9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/posthog/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "f416be06d0fff7c55da0fe396e9c8d9f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/kraken/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "1a53dc976dcc3ab26d2d68d42a0423cf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/claymorphism/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "f32943a1c8683d357853180db88a0783"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/replicate/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "e0f17807ffd80cbfb51c4a347571254f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/gradient/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "8f9e547f7eb8a345895087ecd8a182c1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/bento/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "f46df986a4956388dba4d903fda0acf9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/mastercard/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "e302a6d9b6bf7430d0f956e5f6cf55c3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/expo/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "4e52001a6f6df9c93c5b540e45482781"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/colorful/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "4b4bd12386436b9cd873359278fb651c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/warm-editorial/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "28879eb1b3f5d253f692f7e51dfc99c7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/dithered/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "95071c5f4acd0a90db3d2615beb0bf4d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/neumorphism/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "336c1a574229cc1544a2b16a91b41ecc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/cohere/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "4b9cffb1533646712d1db5c46bc87bde"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/superhuman/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "19753a3a47bc050fe4142a702d2537d4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/retro/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "a8eeb75146bc85c11a9cbd4b9a0038b2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/canva/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "362f67e507f7bb5c656b4c05a2193d63"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/friendly/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "6189697c624c8c71c8d8c8d692bf4d14"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/neon/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "efdafee4a8f0105ef376ff3a48a4d34a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/spotify/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "8d68b296c61cd73c9fdc19bb0ef9fb01"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/dashboard/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "a17972fb804c11342c1133546546958a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/tetris/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "18f589511b95ceff4c45a4ae0a1f184d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/pinterest/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "c1ddb775494078f048885402ef809613"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/refined/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "886c77acf67625765d2e0b197ead3373"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/apple/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "89054342efd701a11947bd0b37871bc6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/expressive/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "989508f6aeb9345d179defb17fe1f99f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/voltagent/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "d46c5f9cee3ea40a19cba324f2129260"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/tesla/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "cd5d92557cefa34e22b17b0676aa6d3f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/artistic/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "74cbcdd01e7dfaf056ccfc64ab11f7a8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/ant/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "dd0b82dd0e6cf8a3468c3c5d28bd3a9a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/dramatic/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "71f6110a38b3173fbc524eb0556bccfd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/together-ai/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "e7dd35ea2e18372b179c502def63903c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/hashicorp/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "31e1fb2afa77057ebcefc9cb050801eb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/contemporary/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "224242bb94e4cbddb40951be64d6eab8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/wise/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "8a3616241b15fef281c436d877aca0ba"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/binance/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "42369b196f96ed99e48de78960b81b5f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/fantasy/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "89a5d0eb49b8b34312936cca5d653098"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/sleek/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "43a087f3123f1845d532772250bf28f4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/shopify/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "749f393725b25e105c47aaa4e1ebdcb2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/shadcn/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "da21f577bf5f868a3b04f1b1505d631d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/levels/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "c1e6c1a8bf3cd0841308b01391af34a2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/paper/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "7819b86b1c496bc0a160c1a890674fcb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/sentry/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "1c4a5e633f789bcadec9160a24c22b2d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/lovable/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "d8b7045fa0ef1521526227d7a829a7d9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/notion/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "d78d8b392f825f2832c3130be46422d2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/corporate/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "ef32cbaa1bd47e1daac37ba1c54f848e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/vibrant/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "bc68d5d7472125304440a85ef27fa558"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/vintage/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "d711c0ec4edf21811ed7248c70809bbe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/duolingo/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "c1b30f5c79934fac2e59e90f8a11fb8a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/playstation/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "191eb590732e3c72ebad7bd7e48b241c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/bugatti/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "da1eb82622e9cc25c67403cdd0d5e50e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/wired/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "b9e3af8bb9df85f95d55a6ae12000b79"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/brutalism/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "ac7b24691d3c2406bcfe3c0059c80abe"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/lamborghini/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "a82f3b4b4c54ee70d011642a0c925d30"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/enterprise/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "ab6a9f75fe4587e6c1530eb93709b853"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/linear-app/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "ac791a30f9c370689d3242d3a99a41f2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/default/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "9bfa4262182752b11fd65bab302df96a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/skeumorphism/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "09812dafa97a0788a7e8039165b55f2e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/theverge/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "3e2ced420cc2373a6ed443de82af62ed"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/flat/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "a344518a0e53c1133e0ff74b876acccd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/meta/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "92f27791bb40525ef029b1fbc33ca270"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/openai/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "75731e3e273b3e125902f17c2a35a992"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/mongodb/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "4de727472a374038f8c92902fbda50b9"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/framer/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "ac2bcadb50cdf8cb3e3f64ced7cfab0e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/github/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "e1def4fdb69a19c0151e8e819453f75b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/coinbase/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "645930735eb9edd969d82058c5c32f57"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/clay/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "2947e82ee3ef41b9369b6deab15709a4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/discord/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "827490af6e2b15bb0e80ba83efd9882b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/renault/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "6c6fa9045ef117b222831c6e96472673"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/warp/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "eef378265c06edd2ba78108936ecce45"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/starbucks/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "e3b4245223f5684186c0df69fc328d7f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/figma/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "bb0740fe5297c9db24d7e640e1fd290f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/supabase/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "62e15f979c544e331dc5dac1c2e58d89"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/premium/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "c828dad30516f10bd4ace7056144a090"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/minimax/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "38b0c592c0ff5c85c1d507086d3ad8b5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/doodle/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "f65281dd14ae2d2a5c14b7b87c585ddd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/miro/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "354421b8c0ce7032cc56579bc5cfe1f1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/clickhouse/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "2ca00f95b7e914047864423e98da8d8a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/publication/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "f915caab3a977e7763302ec12c9ef84f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/cafe/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "9ad85a4692c4e1b7456a68ab0615d571"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/intercom/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "edc25421b004655679583508a267b732"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/elegant/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "d18b6685a23f8f8784191da805b819db"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/arc/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "8e37b77a5a777a2b7d77449a77a1a3f8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/xiaohongshu/DESIGN.md": {
+    "mtime": 1777773390.3091078,
+    "hash": "cb01873256a79c6d9847431f791be916"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/ollama/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "97a9c145f2c328ad8f10550659363f5d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/lingo/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "5cd08dd28a4ca81ae9ea057efcf3b5d6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/cursor/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "1e4aabb573d21dc849da870fe7adc48a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/runwayml/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "dc31a975084664226a80b628fb457aef"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/creative/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "4ed0c27b5459657ba879f4e33fed79fa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/kami/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "e5f2933794a105d84d85d1ffe0454c64"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/pacman/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "b8c138046429629fd51e0a81fabd3bb3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/spacex/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "993051a26c2996c24b24907b40c2d3c6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/modern/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "b4f9e15a657fee75d77e0374e09de0e2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/agentic/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "bf51466c8159ef1bc1dff6e7ef9d42e2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/nike/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "d905578eeb4a5719c713956eb27dc900"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/vercel/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "6320d4d2c623b9dfdf4cc19db88052da"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/elevenlabs/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "3e2b2df5c17157b1d637cd2b04862059"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/material/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "337fd97c4c7b3889b1131d4e9b37144d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/cal/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "4bed7e144c5107008a61e734f953e038"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/bmw/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "e37974ebc522d800d3e9a854adf82918"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/application/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "b8f29583692b786b7db1b805e3414af5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/luxury/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "dcc9944edea7aa5e35a5b8b314e9833c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/editorial/DESIGN.md": {
+    "mtime": 1777773390.2971072,
+    "hash": "ac52cae4a64d9e371ddb7fea4dceb261"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/perspective/DESIGN.md": {
+    "mtime": 1777773390.3031075,
+    "hash": "bdd24ca42ad7a0329b853d60310e1ab6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/nvidia/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "e96ae087718e7f634101d90d9054e9e3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/cosmic/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "5cc1fe8585f7d86bdc032a291903c629"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/composio/DESIGN.md": {
+    "mtime": 1777773390.2961073,
+    "hash": "7bac5080d7fddb658bd1af3ca14e803a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/opencode-ai/DESIGN.md": {
+    "mtime": 1777773390.3021073,
+    "hash": "e1b856a72c6abed8aaede0d0a34a1570"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/stripe/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "da276f2538aabdb802dfd1d1fd81eb75"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/mono/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "aebda5df665120887fccbbe6aee39b52"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/futuristic/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "8c37ba14d49dbd8fca45b6368634f545"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/minimal/DESIGN.md": {
+    "mtime": 1777773390.3001075,
+    "hash": "18bf658b09bf317948f346dfbc42b932"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/claude/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "7661b152bfa888fee274f749953e61ef"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/mistral-ai/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "ae860086c527f87146697d5673a7af7a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/airbnb/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "e12939c6eca9ac5039d2daf7f8a4f919"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/sanity/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "b982e6e435454bf3ba5fb2616aa85196"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/simple/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "d3a33c96e0dfe9cfb696f62d1d579779"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/spacious/DESIGN.md": {
+    "mtime": 1777773390.3051076,
+    "hash": "a60da55d51dad09b28d7e4d95c33de17"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/neobrutalism/DESIGN.md": {
+    "mtime": 1777773390.3011074,
+    "hash": "efb139e14cf8a63b977811c160d199e8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/clean/DESIGN.md": {
+    "mtime": 1777773390.2951071,
+    "hash": "1c79e8238d140872fa394ae4cd38cb2a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/ferrari/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "a0563b78d2084a9898977687a726859d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/resend/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "6e041a32fe19ead22dbb38ce7b3f8755"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/glassmorphism/DESIGN.md": {
+    "mtime": 1777773390.2981074,
+    "hash": "b801a8c1896e9082c10324a04b0376d8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/x-ai/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "a8084dfab63dff26572bbccca628b89f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/bold/DESIGN.md": {
+    "mtime": 1777773390.2941072,
+    "hash": "e6d2dbeb60a47e584120068343d1a3ef"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/airtable/DESIGN.md": {
+    "mtime": 1777773390.2938848,
+    "hash": "1ed69887f3149166cd623bec12019cdb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/uber/DESIGN.md": {
+    "mtime": 1777773390.3071077,
+    "hash": "dbe3ca41279786675034e47f3e345279"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/webflow/DESIGN.md": {
+    "mtime": 1777773390.3081076,
+    "hash": "ebec6286e737fbb60d24db90e18a8c5d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/ibm/DESIGN.md": {
+    "mtime": 1777773390.2991073,
+    "hash": "f150063b40f9b6cdfbf0730bfb3850fa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/revolut/DESIGN.md": {
+    "mtime": 1777773390.3041074,
+    "hash": "7d7e0c57e82f3b3836544f909a7ff0ea"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/design-systems/storytelling/DESIGN.md": {
+    "mtime": 1777773390.3061075,
+    "hash": "35be41eef35b90e41e5680370b3d9a50"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/AGENTS.md": {
+    "mtime": 1777773390.450356,
+    "hash": "efaa77b893d294cfd58b0ba3d8875e75"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/AGENTS.md": {
+    "mtime": 1777773390.4507775,
+    "hash": "1c41800b70297859359350f39d705a3b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/README.md": {
+    "mtime": 1777773390.451191,
+    "hash": "32f4818b7d2e04ed6d41551f3091e2a1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/packages/AGENTS.md": {
+    "mtime": 1777773390.3644323,
+    "hash": "8ba19680e416569ad5f04b974d45fada"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/01-entry-view.png": {
+    "mtime": 1777773390.3575456,
+    "hash": "44af9d3dbad91cb223df04e865177d34"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/05-preview-iframe.png": {
+    "mtime": 1777773390.358178,
+    "hash": "c64855a17e03d62a54ef0000a52f6db6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/01-entry-view.svg": {
+    "mtime": 1777773390.358178,
+    "hash": "7e309818af2a8d7b05b7af1f045b4a72"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/08-mobile-app.png": {
+    "mtime": 1777773390.3591094,
+    "hash": "f37baae21642d4a3f07bea4ff4a19137"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/03-direction-picker.png": {
+    "mtime": 1777773390.358178,
+    "hash": "5e980995a5a78aa9ce00f7a0cddaddb6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/02-question-form.png": {
+    "mtime": 1777773390.358178,
+    "hash": "bb0c9287e638c9d7ba48a835b6570a36"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/04-todo-progress.svg": {
+    "mtime": 1777773390.358178,
+    "hash": "b742b9cc51ee203c014a29b5c1449986"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/02-question-form.svg": {
+    "mtime": 1777773390.358178,
+    "hash": "ad7dbd6eb84933346f1f97acf64c4b9a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/04-todo-progress.png": {
+    "mtime": 1777773390.358178,
+    "hash": "24d2101e416f3ffbb698032fc81b1342"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/07-magazine-deck.png": {
+    "mtime": 1777773390.3591094,
+    "hash": "faf9b54b70754377dabfa66604850da6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/05-preview-iframe.svg": {
+    "mtime": 1777773390.358178,
+    "hash": "04de00a576f997ea4a5949121d279584"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/06-design-systems-library.png": {
+    "mtime": 1777773390.358178,
+    "hash": "19df90a2668a844fb2ba7dddc6998028"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/07-magazine-deck.svg": {
+    "mtime": 1777773390.3591094,
+    "hash": "9b8e1817246b324f4d6e21d1554247fd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/03-direction-picker.svg": {
+    "mtime": 1777773390.358178,
+    "hash": "2b2f792cad754ec4f03179a57df1b3df"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/08-mobile-app.svg": {
+    "mtime": 1777773390.3591094,
+    "hash": "250a89fafe79296e0f784fc9041b7413"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/06-design-systems-library.svg": {
+    "mtime": 1777773390.3591094,
+    "hash": "8d203b4dc83c532510a35e37ddb2d4b7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/sprite-animation.png": {
+    "mtime": 1777773390.3621094,
+    "hash": "11e7e3e39e80f447a7e041dc7b1b22c1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/digital-eguide.png": {
+    "mtime": 1777773390.3601093,
+    "hash": "12e83569b66506c8b9d9ba8879d28939"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/gamified-app.png": {
+    "mtime": 1777773390.3611095,
+    "hash": "ee0ca829f2860ab7e24182b2dd699010"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/email-marketing.png": {
+    "mtime": 1777773390.3601093,
+    "hash": "b0c9f56e18bdf934205961a66b2d7375"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/mobile-onboarding.png": {
+    "mtime": 1777773390.3611095,
+    "hash": "d7194b4359c6be79d4e575827c5e6240"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/motion-frames.png": {
+    "mtime": 1777773390.3611095,
+    "hash": "b8c18bedffba5606ddd9f9094cc7a79c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/dating-web.png": {
+    "mtime": 1777773390.3601093,
+    "hash": "17e824d37dae9bfad4bf356950a5a770"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/screenshots/skills/social-carousel.png": {
+    "mtime": 1777773390.3611095,
+    "hash": "a6f2135d37d15706935a29bf9864bd42"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/logo.png": {
+    "mtime": 1777773390.348109,
+    "hash": "e6c16dab8e1c0cb1f3db246f4297eded"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/star-us.png": {
+    "mtime": 1777773390.3561091,
+    "hash": "69606d72c21346c10a446630b518eecf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/design-systems-library.png": {
+    "mtime": 1777773390.3251083,
+    "hash": "dabf5bbf3765dd2546b6a7d2d51e0d53"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/banner.svg": {
+    "mtime": 1777773390.321108,
+    "hash": "f37808aabc2997c19f1a8de2fea55b30"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/github-metrics.svg": {
+    "mtime": 1777773390.346109,
+    "hash": "c88c59b63586f3a637f6cfa4d67bb647"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/banner.png": {
+    "mtime": 1777773390.320108,
+    "hash": "14eb849134cc6112d31e8ed741211dce"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/docs/assets/design-systems-library.svg": {
+    "mtime": 1777773390.3251083,
+    "hash": "c05bde840a9dc78cf69a017d7c5fab5c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/public/logo.svg": {
+    "mtime": 1777773390.1891036,
+    "hash": "921ca234963bd58b572627ce900a9806"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/public/app-icon.svg": {
+    "mtime": 1777773390.18723,
+    "hash": "400b7244324589bb8d1c7fb30d8ac75d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/apps/web/public/avatar.png": {
+    "mtime": 1777773390.1891036,
+    "hash": "1493981dd9044720e599a8d7cef17a95"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/layouts.png": {
+    "mtime": 1777773390.4001107,
+    "hash": "b149cc889219f4f0d5df4e6e4299e5ba"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/animations.png": {
+    "mtime": 1777773390.3861103,
+    "hash": "4e9845562efcde7bc60fb412e17ec022"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/presenter-mode.png": {
+    "mtime": 1777773390.4031107,
+    "hash": "d428cbb3371690630ca70546821617db"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/themes.png": {
+    "mtime": 1777773390.406111,
+    "hash": "c3906d709aa194fa2e72e6a4355e58d1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/templates.png": {
+    "mtime": 1777773390.4051108,
+    "hash": "6b819f1bcbc6e04d08eefe0f623d6c7b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/layouts-live.gif": {
+    "mtime": 1777773390.4001107,
+    "hash": "866d5ed1eabd0397887d3bed5b37758f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/docs/readme/hero.gif": {
+    "mtime": 1777773390.3971107,
+    "hash": "22f3d2e1ca6ff3e146594b4577f589b7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_07.png": {
+    "mtime": 1777773390.411111,
+    "hash": "a2d98710f0a2f6bed74c2aef58acb18f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_14.png": {
+    "mtime": 1777773390.4141111,
+    "hash": "fa0dc4c3343ee0ac4c049b12cc8a0f77"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_16.png": {
+    "mtime": 1777773390.4171112,
+    "hash": "d306c002e44635f6169797d01ebc0516"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_18.png": {
+    "mtime": 1777773390.4181113,
+    "hash": "45bf009e2034617260868a3f1f1c316b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_20.png": {
+    "mtime": 1777773390.4191113,
+    "hash": "871eacecb3a11980a7e1d3613ac175f4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_01.png": {
+    "mtime": 1777773390.407885,
+    "hash": "27886eabfa26497b29ec2dc93857e105"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_03.png": {
+    "mtime": 1777773390.4082813,
+    "hash": "97a9a2da2222e3816abb8186a0423309"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_13.png": {
+    "mtime": 1777773390.4141111,
+    "hash": "d34142c0c45975c9a13283db6555a910"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_11.png": {
+    "mtime": 1777773390.4131112,
+    "hash": "e4f9be4010faa3eec888fce2b0b1e7f2"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_10.png": {
+    "mtime": 1777773390.4131112,
+    "hash": "811bc5e4074fefa755b95c8b7042e5e4"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_06.png": {
+    "mtime": 1777773390.410111,
+    "hash": "a5151f74c0b1c8c0959240cc183309f5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_19.png": {
+    "mtime": 1777773390.4181113,
+    "hash": "7634f45a988f3a3943a96a73675c40d6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_08.png": {
+    "mtime": 1777773390.412111,
+    "hash": "e2891387f8f91433fc2067b409b6f5ff"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_15.png": {
+    "mtime": 1777773390.4151113,
+    "hash": "7de563269cb05346aed34d53690ffd44"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_12.png": {
+    "mtime": 1777773390.4141111,
+    "hash": "8469f32b396c0386d0dfda99eaf83db1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_02.png": {
+    "mtime": 1777773390.4082813,
+    "hash": "68b56cc662162fef572e78a0320be07f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_05.png": {
+    "mtime": 1777773390.409111,
+    "hash": "01caf043b35cc19631ed9acc13c5908d"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_09.png": {
+    "mtime": 1777773390.412111,
+    "hash": "f3d9bb3f1d43f6de05561ab7df8a4016"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_04.png": {
+    "mtime": 1777773390.4082813,
+    "hash": "e1c0e9aaee553ca20a9f72f716a67ddc"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/animation-showcase/animation-showcase_17.png": {
+    "mtime": 1777773390.4171112,
+    "hash": "6c7684b3487dc24b40d2fc08bec61f05"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_33.png": {
+    "mtime": 1777773390.433112,
+    "hash": "b882d1a548426f699aafc37ac83ca423"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_09.png": {
+    "mtime": 1777773390.4231114,
+    "hash": "dc1d6a7da5124b8b97db05d5500dd290"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_04.png": {
+    "mtime": 1777773390.4204807,
+    "hash": "42de32c81afa8955182ce3729b4606b3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_29.png": {
+    "mtime": 1777773390.4321117,
+    "hash": "75fb4ecf782bb9524d0e70c9804eed86"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_10.png": {
+    "mtime": 1777773390.4231114,
+    "hash": "a6e6c4846753847dd64d8965ea476484"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_26.png": {
+    "mtime": 1777773390.4301116,
+    "hash": "fe83ec1864aadf07b28207e1f2f576e5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_30.png": {
+    "mtime": 1777773390.4321117,
+    "hash": "1c6ffa35eb733a69853ad60548582f97"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_03.png": {
+    "mtime": 1777773390.4204807,
+    "hash": "0206937b273c083760b48adf9a56c86b"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_35.png": {
+    "mtime": 1777773390.4341118,
+    "hash": "31bd16c6b60ced5947d3eb951c5eaf76"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_18.png": {
+    "mtime": 1777773390.4261115,
+    "hash": "beff91a9d235d7a3849a80ebcc8ca8d8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_11.png": {
+    "mtime": 1777773390.4231114,
+    "hash": "4ff4ea8962da61bc232080cd93dd2c21"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_24.png": {
+    "mtime": 1777773390.4291117,
+    "hash": "6ea87df25cdb3dba9f814518d50e2aeb"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_34.png": {
+    "mtime": 1777773390.4341118,
+    "hash": "26498cb32b691ffb267bd3c91f5bb841"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_36.png": {
+    "mtime": 1777773390.4351118,
+    "hash": "5cdd824ff6d5600dd6bb55fa1587777c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_07.png": {
+    "mtime": 1777773390.4221115,
+    "hash": "fe78b1968a8e3eb87d82bc790a62bc49"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_31.png": {
+    "mtime": 1777773390.433112,
+    "hash": "21325c59ab5b19049c821d5b9044f8f3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_08.png": {
+    "mtime": 1777773390.4221115,
+    "hash": "971d5a6237e0b0be982e2029aacc712e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_19.png": {
+    "mtime": 1777773390.4271116,
+    "hash": "51216087cfd34d8f0bc3675454f2a2b1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_15.png": {
+    "mtime": 1777773390.4251115,
+    "hash": "eb6dac854a3b99a32c6068de513d4718"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_21.png": {
+    "mtime": 1777773390.4281116,
+    "hash": "0f27657373200779a92a8aad7fb0d726"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_23.png": {
+    "mtime": 1777773390.4291117,
+    "hash": "f47de2b5ff4360ad6002a5de2a766abf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_13.png": {
+    "mtime": 1777773390.4241116,
+    "hash": "672a44dda260cef840f741445bb22c29"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_02.png": {
+    "mtime": 1777773390.4204807,
+    "hash": "ce2b6dc753da40beab6132d5ac771db8"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_32.png": {
+    "mtime": 1777773390.433112,
+    "hash": "f8d7c87dd10c933dbed8ad847d45549e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_16.png": {
+    "mtime": 1777773390.4261115,
+    "hash": "b70f4f688bf5ae5c5e53fe920dbe38cf"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_25.png": {
+    "mtime": 1777773390.4301116,
+    "hash": "68c574b1aa026e7917903097ab196495"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_28.png": {
+    "mtime": 1777773390.4311118,
+    "hash": "50c341797547edd77fd257128aa38576"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_14.png": {
+    "mtime": 1777773390.4251115,
+    "hash": "94d442a16ed604397b2917bccacad875"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_01.png": {
+    "mtime": 1777773390.4191113,
+    "hash": "e19aad54987ec9015803e5f855370ddd"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_17.png": {
+    "mtime": 1777773390.4261115,
+    "hash": "8d91ae12989f85765c4933db0cf66d4f"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_22.png": {
+    "mtime": 1777773390.4281116,
+    "hash": "edd72cae4eed15d884f1a64c37681546"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_05.png": {
+    "mtime": 1777773390.4211113,
+    "hash": "62e3c6257ba255c1fcc8e5a62d4cd312"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_12.png": {
+    "mtime": 1777773390.4241116,
+    "hash": "6555f8b1d68d6e33b224ed87022e5c51"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_27.png": {
+    "mtime": 1777773390.4311118,
+    "hash": "e29dd713095e6e7a9683757529f2615c"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_06.png": {
+    "mtime": 1777773390.4211113,
+    "hash": "e541f11ad6b28f6c8f5e15eaabe6c5e6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/skills/html-ppt/scripts/verify-output/theme-showcase/theme-showcase_20.png": {
+    "mtime": 1777773390.4271116,
+    "hash": "fb9e0061a0f882f3c346b4e435fe8daa"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/clippit/spritesheet.webp": {
+    "mtime": 1777773390.207549,
+    "hash": "2843474dacea56a1102e644a22c8f817"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/yelling-dario/spritesheet.webp": {
+    "mtime": 1777773390.226105,
+    "hash": "00aa3c7791e3b12d51413c98c1b874a6"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/dario/spritesheet.webp": {
+    "mtime": 1777773390.2101045,
+    "hash": "e44042f2e12df92ca1476fee125d1389"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/trump/spritesheet.webp": {
+    "mtime": 1777773390.2190766,
+    "hash": "5fb5c825f123c37e3d51db805533888e"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/yorha-sit-2b/spritesheet.webp": {
+    "mtime": 1777773390.2351053,
+    "hash": "34817073ee1fedfd7bfc66dee330999a"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/slavik/spritesheet.webp": {
+    "mtime": 1777773390.2181046,
+    "hash": "a234e89e2b584ffa78b9eeb40f0118f0"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/nyako-shigure/spritesheet.webp": {
+    "mtime": 1777773390.2141044,
+    "hash": "e274c0132dd5a911d720835881a908f5"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/community-pets/tux/spritesheet.webp": {
+    "mtime": 1777773390.2211046,
+    "hash": "9ed26c9f128d9ab0414be803d91fa858"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/game-ui-ancient-china-open-world-mmo-hud.jpg": {
+    "mtime": 1777773390.2391052,
+    "hash": "ab0573c64ed27080d4004d8d39f596a3"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/game-screenshot-three-kingdoms-lyubu-yuanmen-archery.jpg": {
+    "mtime": 1777773390.2381053,
+    "hash": "79a2ea0114c0ac1f691fddce0dc24451"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/game-screenshot-three-kingdoms-guanyu-slaying-yanliang.jpg": {
+    "mtime": 1777773390.2371054,
+    "hash": "f43e48f4d6b6f45e6f11b98d0f36fbef"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/game-screenshot-three-kingdoms-zhaoyun-cradle-escape.jpg": {
+    "mtime": 1777773390.2391052,
+    "hash": "00856745b46f7375cc0c06c1c4edb271"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/game-screenshot-anime-fighting-game-captain-ryuuga-vs-kaze-renshin.jpg": {
+    "mtime": 1777773390.2371054,
+    "hash": "85b7a4676b6a92339315046a8f5c40db"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/illustration-crayon-kid-drawing-rework.jpg": {
+    "mtime": 1777773390.2401054,
+    "hash": "c28518713b25421a373a9b2a89af8987"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/infographic-otaku-dance-choreography-breakdown-gokurakujodo-16-panels.jpg": {
+    "mtime": 1777773390.2421055,
+    "hash": "c35549cc401be5259209b1f2dfd4c3f7"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/image/social-media-post-sensational-girl-dance-storyboard-8-shots.jpg": {
+    "mtime": 1777773390.2421055,
+    "hash": "409df51517d522e7e95d4e5e4fa3d9b1"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-guanyu-slaying-yanliang-poster.jpg": {
+    "mtime": 1777773390.2431054,
+    "hash": "f43e48f4d6b6f45e6f11b98d0f36fbef"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-zhaoyun-cradle-escape-poster.jpg": {
+    "mtime": 1777773390.2731066,
+    "hash": "00856745b46f7375cc0c06c1c4edb271"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-lyubu-yuanmen-archery-poster.jpg": {
+    "mtime": 1777773390.261106,
+    "hash": "79a2ea0114c0ac1f691fddce0dc24451"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/tools/pack/resources/mac/icon.png": {
+    "mtime": 1777773390.4531124,
+    "hash": "ebcc73d13cd9037ab88af2beb9237199"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-guanyu-slaying-yanliang.mp4": {
+    "mtime": 1777773390.260106,
+    "hash": "bcf46a032f5ec01108e8693e15f624ff"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-zhaoyun-cradle-escape.mp4": {
+    "mtime": 1777773390.2911072,
+    "hash": "dcfad5ea1fdd0d6708d73a2a71583a50"
+  },
+  "/home/limcheekin/dev/ws/ts/open-design/assets/prompt-templates/video/video-seedance-three-kingdoms-lyubu-yuanmen-archery.mp4": {
+    "mtime": 1777773390.2721064,
+    "hash": "9681badca93f2a07758937143eaa5074"
+  }
+}
